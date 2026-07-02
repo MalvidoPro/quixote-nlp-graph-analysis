@@ -1,0 +1,90 @@
+Source,Target,Weight,Avg_Sentiment,Type
+don quixote,sancho panza,112,0.3555,Undirected
+dulcinea,sancho panza,24,0.5566,Undirected
+don quixote,don álvaro tarfe,21,0.4393,Undirected
+don quixote,samson carrasco,20,0.3005,Undirected
+don quixote,dulcinea,18,0.4178,Undirected
+samson carrasco,sancho panza,13,0.2633,Undirected
+altisidora,sancho panza,13,-0.078,Undirected
+don quixote,rocinante,13,0.4011,Undirected
+don antonio moreno,don quixote,13,0.2959,Undirected
+dapple,sancho panza,12,0.0392,Undirected
+rocinante,sancho panza,11,0.2638,Undirected
+dapple,don quixote,10,0.1834,Undirected
+don álvaro tarfe,sancho panza,9,0.2557,Undirected
+ana felix,don gregorio,9,0.2252,Undirected
+altisidora,don quixote,8,-0.338,Undirected
+sancho panza,tosilos,8,0.2276,Undirected
+don antonio moreno,don gregorio,7,0.3714,Undirected
+sancho panza,teresa panza,6,0.4869,Undirected
+cide hamete benengeli,don quixote,5,0.318,Undirected
+ana felix,don antonio moreno,5,0.4291,Undirected
+altisidora,rhadamanthus,5,-0.0756,Undirected
+don gregorio,sancho panza,4,0.2434,Undirected
+samson carrasco,the barber,4,0.739,Undirected
+rhadamanthus,sancho panza,4,0.2712,Undirected
+don antonio moreno,samson carrasco,4,0.1174,Undirected
+don quixote,teresa panza,4,0.6385,Undirected
+dapple,rocinante,4,0.381,Undirected
+don antonio moreno,ricote,4,0.2201,Undirected
+curiambro,samson carrasco,3,0.6866,Undirected
+altisidora,minos,3,0.0674,Undirected
+minos,rhadamanthus,3,0.3616,Undirected
+don quixote,tom cecial,3,0.5859,Undirected
+roland,sancho panza,3,0.2732,Undirected
+ana felix,ricote,3,0.0901,Undirected
+don gregorio,ricote,3,0.0736,Undirected
+don gregorio,don quixote,3,0.5185,Undirected
+don quixote,tosilos,3,0.4239,Undirected
+dulcinea,samson carrasco,3,-0.0238,Undirected
+don gaiferos,don gregorio,2,-0.0394,Undirected
+don antonio moreno,rocinante,2,0.5574,Undirected
+ana felix,don quixote,2,0.3562,Undirected
+dulcinea,merlin,2,0.4201,Undirected
+samson carrasco,tom cecial,2,0.5859,Undirected
+don quixote,rhadamanthus,2,0.6801,Undirected
+sancho panza,tom cecial,2,0.5859,Undirected
+altisidora,dapple,2,0.0,Undirected
+minos,sancho panza,2,0.4412,Undirected
+don quixote,minos,2,0.6801,Undirected
+altisidora,dulcinea,2,0.2195,Undirected
+sancho panza,the barber,2,0.757,Undirected
+don gaiferos,sancho panza,2,-0.0394,Undirected
+dapple,tosilos,2,-0.6661,Undirected
+samson carrasco,teresa panza,2,0.5859,Undirected
+don quixote,doña rodriguez,2,-0.3818,Undirected
+don antonio moreno,sancho panza,2,0.3906,Undirected
+don quixote,roland,2,0.2732,Undirected
+don gaiferos,don quixote,1,-0.0015,Undirected
+don gregorio,samson carrasco,1,0.6705,Undirected
+don antonio moreno,dulcinea,1,0.8482,Undirected
+don gaiferos,melisendra,1,-0.0015,Undirected
+melisendra,sancho panza,1,-0.0015,Undirected
+don gregorio,melisendra,1,-0.0015,Undirected
+don quixote,melisendra,1,-0.0015,Undirected
+don antonio moreno,don gaiferos,1,-0.0015,Undirected
+don antonio moreno,melisendra,1,-0.0015,Undirected
+bernardino de velasco,ricote,1,0.9514,Undirected
+ana felix,sancho panza,1,0.3502,Undirected
+rocinante,samson carrasco,1,0.6808,Undirected
+bernardino de velasco,don antonio moreno,1,0.9412,Undirected
+doña rodriguez,tosilos,1,-0.3818,Undirected
+don quixote,the barber,1,0.5588,Undirected
+samson carrasco,tosilos,1,-0.4215,Undirected
+altisidora,tosilos,1,0.1901,Undirected
+camacho,sancho panza,1,0.5574,Undirected
+don diego de miranda,sancho panza,1,0.5574,Undirected
+curiambro,the barber,1,0.5588,Undirected
+curiambro,don quixote,1,0.5588,Undirected
+curiambro,sancho panza,1,0.5588,Undirected
+camacho,don diego de miranda,1,0.5574,Undirected
+cide hamete benengeli,tordesillas,1,0.1655,Undirected
+teresa panza,tom cecial,1,0.5859,Undirected
+don quixote,orbaneja,1,-0.3182,Undirected
+orbaneja,sancho panza,1,-0.3182,Undirected
+don quixote,garcilaso,1,-0.5029,Undirected
+don álvaro tarfe,dulcinea,1,-0.0516,Undirected
+sanchica,teresa panza,1,0.4678,Undirected
+sanchica,sancho panza,1,0.4678,Undirected
+dapple,sanchica,1,0.4939,Undirected
+don quixote,sanchica,1,0.4939,Undirected

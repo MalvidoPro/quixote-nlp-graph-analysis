@@ -1,0 +1,474 @@
+========================================
+ PALABRA: dog (Tipo: n)
+========================================
+
+--- Meaning 1: dog.n.01 ---
+  Definition: a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+  Lemmas: ['dog', 'domestic_dog', 'Canis_familiaris']
+  Relation (Hypernyms): ['domestic_animal.n.01', 'canine.n.02']
+  Relation (Meronyms - Parts): ['flag.n.07']
+
+--- Meaning 2: frump.n.01 ---
+  Definition: a dull unattractive unpleasant girl or woman
+  Lemmas: ['frump', 'dog']
+  Relation (Hypernyms): ['unpleasant_woman.n.01']
+
+--- Meaning 3: dog.n.03 ---
+  Definition: informal term for a man
+  Lemmas: ['dog']
+  Relation (Hypernyms): ['chap.n.01']
+
+--- Meaning 4: cad.n.01 ---
+  Definition: someone who is morally reprehensible
+  Lemmas: ['cad', 'bounder', 'blackguard', 'dog', 'hound', 'heel']
+  Relation (Hypernyms): ['villain.n.01']
+
+--- Meaning 5: frank.n.02 ---
+  Definition: a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll
+  Lemmas: ['frank', 'frankfurter', 'hotdog', 'hot_dog', 'dog', 'wiener', 'wienerwurst', 'weenie']
+  Relation (Hypernyms): ['sausage.n.01']
+
+--- Meaning 6: pawl.n.01 ---
+  Definition: a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward
+  Lemmas: ['pawl', 'detent', 'click', 'dog']
+  Relation (Hypernyms): ['catch.n.06']
+
+--- Meaning 7: andiron.n.01 ---
+  Definition: metal supports for logs in a fireplace
+  Lemmas: ['andiron', 'firedog', 'dog', 'dog-iron']
+  Relation (Hypernyms): ['support.n.10']
+
+========================================
+ PALABRA: car (Tipo: n)
+========================================
+
+--- Meaning 1: car.n.01 ---
+  Definition: a motor vehicle with four wheels; usually propelled by an internal combustion engine
+  Lemmas: ['car', 'auto', 'automobile', 'machine', 'motorcar']
+  Relation (Hypernyms): ['motor_vehicle.n.01']
+  Relation (Meronyms - Parts): ['car_door.n.01', 'reverse.n.02', 'bumper.n.02', 'car_seat.n.01', 'high_gear.n.01', 'third_gear.n.01', 'window.n.02', 'tail_fin.n.02', 'running_board.n.01', 'air_bag.n.01', 'hood.n.09', 'luggage_compartment.n.01', 'automobile_engine.n.01', 'roof.n.02', 'gasoline_engine.n.01', 'auto_accessory.n.01', 'sunroof.n.01', 'automobile_horn.n.01', 'rear_window.n.01', 'buffer.n.06', 'fender.n.01', 'floorboard.n.02', 'glove_compartment.n.01', 'car_window.n.01', 'grille.n.02', 'accelerator.n.01', 'first_gear.n.01', 'car_mirror.n.01', 'stabilizer_bar.n.01']
+
+--- Meaning 2: car.n.02 ---
+  Definition: a wheeled vehicle adapted to the rails of railroad
+  Lemmas: ['car', 'railcar', 'railway_car', 'railroad_car']
+  Relation (Hypernyms): ['wheeled_vehicle.n.01']
+  Relation (Meronyms - Parts): ['suspension.n.05']
+
+--- Meaning 3: car.n.03 ---
+  Definition: the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant
+  Lemmas: ['car', 'gondola']
+  Relation (Hypernyms): ['compartment.n.02']
+
+--- Meaning 4: car.n.04 ---
+  Definition: where passengers ride up and down
+  Lemmas: ['car', 'elevator_car']
+  Relation (Hypernyms): ['compartment.n.02']
+
+--- Meaning 5: cable_car.n.01 ---
+  Definition: a conveyance for passengers or freight on a cable railway
+  Lemmas: ['cable_car', 'car']
+  Relation (Hypernyms): ['compartment.n.02']
+
+========================================
+ PALABRA: love (Tipo: n)
+========================================
+
+--- Meaning 1: love.n.01 ---
+  Definition: a strong positive emotion of regard and affection
+  Lemmas: ['love']
+  Relation (Hypernyms): ['emotion.n.01']
+
+--- Meaning 2: love.n.02 ---
+  Definition: any object of warm affection or devotion
+  Lemmas: ['love', 'passion']
+  Relation (Hypernyms): ['object.n.04']
+
+--- Meaning 3: beloved.n.01 ---
+  Definition: a beloved person; used as terms of endearment
+  Lemmas: ['beloved', 'dear', 'dearest', 'honey', 'love']
+  Relation (Hypernyms): ['lover.n.01']
+
+--- Meaning 4: love.n.04 ---
+  Definition: a deep feeling of sexual desire and attraction
+  Lemmas: ['love', 'sexual_love', 'erotic_love']
+  Relation (Hypernyms): ['sexual_desire.n.01']
+
+--- Meaning 5: love.n.05 ---
+  Definition: a score of zero in tennis or squash
+  Lemmas: ['love']
+  Relation (Hypernyms): ['score.n.03']
+
+--- Meaning 6: sexual_love.n.02 ---
+  Definition: sexual activities (often including sexual intercourse) between two people
+  Lemmas: ['sexual_love', 'lovemaking', 'making_love', 'love', 'love_life']
+  Relation (Hypernyms): ['sexual_activity.n.01']
+
+========================================
+ PALABRA: run (Tipo: v)
+========================================
+
+--- Meaning 1: run.v.01 ---
+  Definition: move fast by using one's feet, with one foot off the ground at any given time
+  Lemmas: ['run']
+  Relation (Hypernyms): ['travel_rapidly.v.01']
+
+--- Meaning 2: scat.v.01 ---
+  Definition: flee; take to one's heels; cut and run
+  Lemmas: ['scat', 'run', 'scarper', 'turn_tail', 'lam', 'run_away', 'hightail_it', 'bunk', 'head_for_the_hills', 'take_to_the_woods', 'escape', 'fly_the_coop', 'break_away']
+  Relation (Hypernyms): ['leave.v.01']
+
+--- Meaning 3: run.v.03 ---
+  Definition: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point
+  Lemmas: ['run', 'go', 'pass', 'lead', 'extend']
+  Relation (Hypernyms): ['be.v.03']
+
+--- Meaning 4: operate.v.01 ---
+  Definition: direct or control; projects, businesses, etc.
+  Lemmas: ['operate', 'run']
+  Relation (Hypernyms): ['direct.v.04']
+
+--- Meaning 5: run.v.05 ---
+  Definition: have a particular form
+  Lemmas: ['run', 'go']
+  Relation (Hypernyms): ['be.v.01']
+
+--- Meaning 6: run.v.06 ---
+  Definition: move along, of liquids
+  Lemmas: ['run', 'flow', 'feed', 'course']
+  Relation (Hypernyms): ['move.v.03']
+
+--- Meaning 7: function.v.01 ---
+  Definition: perform as expected when applied
+  Lemmas: ['function', 'work', 'operate', 'go', 'run']
+
+--- Meaning 8: range.v.01 ---
+  Definition: change or be different within limits
+  Lemmas: ['range', 'run']
+  Relation (Hypernyms): ['be.v.01']
+
+--- Meaning 9: campaign.v.01 ---
+  Definition: run, stand, or compete for an office or a position
+  Lemmas: ['campaign', 'run']
+  Relation (Hypernyms): ['race.v.02']
+
+--- Meaning 10: play.v.18 ---
+  Definition: cause to emit recorded audio or video
+  Lemmas: ['play', 'run']
+
+--- Meaning 11: run.v.11 ---
+  Definition: move about freely and without restraint, or act as if running around in an uncontrolled way
+  Lemmas: ['run']
+  Relation (Hypernyms): ['travel.v.01']
+
+--- Meaning 12: tend.v.01 ---
+  Definition: have a tendency or disposition to do or be something; be inclined
+  Lemmas: ['tend', 'be_given', 'lean', 'incline', 'run']
+  Relation (Hypernyms): ['be.v.01']
+
+--- Meaning 13: run.v.13 ---
+  Definition: be operating, running or functioning
+  Lemmas: ['run']
+  Relation (Hypernyms): ['function.v.01']
+
+--- Meaning 14: run.v.14 ---
+  Definition: change from one state to another
+  Lemmas: ['run']
+  Relation (Hypernyms): ['become.v.01']
+
+--- Meaning 15: run.v.15 ---
+  Definition: cause to perform
+  Lemmas: ['run']
+  Relation (Hypernyms): ['process.v.01']
+
+--- Meaning 16: run.v.16 ---
+  Definition: be affected by; be subjected to
+  Lemmas: ['run']
+  Relation (Hypernyms): ['incur.v.01']
+
+--- Meaning 17: prevail.v.03 ---
+  Definition: continue to exist
+  Lemmas: ['prevail', 'persist', 'die_hard', 'run', 'endure']
+  Relation (Hypernyms): ['continue.v.10']
+
+--- Meaning 18: run.v.18 ---
+  Definition: occur persistently
+  Lemmas: ['run']
+  Relation (Hypernyms): ['occur.v.03']
+
+--- Meaning 19: run.v.19 ---
+  Definition: carry out a process or program, as on a computer or a machine
+  Lemmas: ['run', 'execute']
+  Relation (Hypernyms): ['enforce.v.01']
+
+--- Meaning 20: carry.v.15 ---
+  Definition: include as the content; broadcast or publicize
+  Lemmas: ['carry', 'run']
+  Relation (Hypernyms): ['circulate.v.02']
+
+--- Meaning 21: run.v.21 ---
+  Definition: carry out
+  Lemmas: ['run']
+  Relation (Hypernyms): ['carry_through.v.01']
+
+--- Meaning 22: guide.v.05 ---
+  Definition: pass over, across, or through
+  Lemmas: ['guide', 'run', 'draw', 'pass']
+
+--- Meaning 23: run.v.23 ---
+  Definition: cause something to pass or lead somewhere
+  Lemmas: ['run', 'lead']
+  Relation (Hypernyms): ['pass.v.22']
+
+--- Meaning 24: run.v.24 ---
+  Definition: make without a miss
+  Lemmas: ['run']
+  Relation (Hypernyms): ['succeed.v.01']
+
+--- Meaning 25: run.v.25 ---
+  Definition: deal in illegally, such as arms or liquor
+  Lemmas: ['run', 'black_market']
+  Relation (Hypernyms): ['trade.v.01']
+
+--- Meaning 26: run.v.26 ---
+  Definition: cause an animal to move fast
+  Lemmas: ['run']
+  Relation (Hypernyms): ['move.v.02']
+
+--- Meaning 27: run.v.27 ---
+  Definition: be diffused
+  Lemmas: ['run', 'bleed']
+  Relation (Hypernyms): ['diffuse.v.01']
+
+--- Meaning 28: run.v.28 ---
+  Definition: sail before the wind
+  Lemmas: ['run']
+  Relation (Hypernyms): ['sail.v.03']
+
+--- Meaning 29: run.v.29 ---
+  Definition: cover by running; run a certain distance
+  Lemmas: ['run']
+  Relation (Hypernyms): ['pass.v.01']
+
+--- Meaning 30: run.v.30 ---
+  Definition: extend or continue for a certain period of time
+  Lemmas: ['run', 'run_for']
+  Relation (Hypernyms): ['last.v.01']
+
+--- Meaning 31: run.v.31 ---
+  Definition: set animals loose to graze
+  Lemmas: ['run']
+  Relation (Hypernyms): ['free.v.01']
+
+--- Meaning 32: run.v.32 ---
+  Definition: keep company
+  Lemmas: ['run', 'consort']
+  Relation (Hypernyms): ['accompany.v.02']
+
+--- Meaning 33: run.v.33 ---
+  Definition: run with the ball; in such sports as football
+  Lemmas: ['run']
+  Relation (Hypernyms): ['run.v.01']
+
+--- Meaning 34: run.v.34 ---
+  Definition: travel rapidly, by any (unspecified) means
+  Lemmas: ['run']
+  Relation (Hypernyms): ['travel.v.01']
+
+--- Meaning 35: ply.v.03 ---
+  Definition: travel a route regularly
+  Lemmas: ['ply', 'run']
+  Relation (Hypernyms): ['travel.v.03']
+
+--- Meaning 36: hunt.v.01 ---
+  Definition: pursue for food or sport (as of wild animals)
+  Lemmas: ['hunt', 'run', 'hunt_down', 'track_down']
+  Relation (Hypernyms): ['capture.v.06']
+
+--- Meaning 37: race.v.02 ---
+  Definition: compete in a race
+  Lemmas: ['race', 'run']
+  Relation (Hypernyms): ['compete.v.01']
+
+--- Meaning 38: move.v.13 ---
+  Definition: progress by being changed
+  Lemmas: ['move', 'go', 'run']
+  Relation (Hypernyms): ['change.v.02']
+
+--- Meaning 39: melt.v.01 ---
+  Definition: reduce or cause to be reduced from a solid to a liquid state, usually by heating
+  Lemmas: ['melt', 'run', 'melt_down']
+  Relation (Hypernyms): ['dissolve.v.02']
+
+--- Meaning 40: ladder.v.01 ---
+  Definition: come unraveled or undone as if by snagging
+  Lemmas: ['ladder', 'run']
+  Relation (Hypernyms): ['break.v.02']
+
+--- Meaning 41: run.v.41 ---
+  Definition: become undone
+  Lemmas: ['run', 'unravel']
+  Relation (Hypernyms): ['disintegrate.v.01']
+
+========================================
+ PALABRA: eat (Tipo: v)
+========================================
+
+--- Meaning 1: eat.v.01 ---
+  Definition: take in solid food
+  Lemmas: ['eat']
+  Relation (Hypernyms): ['eat.v.02', 'consume.v.02']
+
+--- Meaning 2: eat.v.02 ---
+  Definition: eat a meal; take a meal
+  Lemmas: ['eat']
+  Relation (Hypernyms): ['consume.v.02']
+
+--- Meaning 3: feed.v.06 ---
+  Definition: take in food; used of animals only
+  Lemmas: ['feed', 'eat']
+  Relation (Hypernyms): ['consume.v.02']
+
+--- Meaning 4: eat.v.04 ---
+  Definition: worry or cause anxiety in a persistent way
+  Lemmas: ['eat', 'eat_on']
+  Relation (Hypernyms): ['worry.v.03']
+
+--- Meaning 5: consume.v.05 ---
+  Definition: use up (resources or materials)
+  Lemmas: ['consume', 'eat_up', 'use_up', 'eat', 'deplete', 'exhaust', 'run_through', 'wipe_out']
+  Relation (Hypernyms): ['spend.v.02']
+
+--- Meaning 6: corrode.v.01 ---
+  Definition: cause to deteriorate due to the action of water, air, or an acid
+  Lemmas: ['corrode', 'eat', 'rust']
+  Relation (Hypernyms): ['damage.v.01']
+
+========================================
+ PALABRA: think (Tipo: v)
+========================================
+
+--- Meaning 1: think.v.01 ---
+  Definition: judge or regard; look upon; judge
+  Lemmas: ['think', 'believe', 'consider', 'conceive']
+  Relation (Hypernyms): ['evaluate.v.02']
+
+--- Meaning 2: think.v.02 ---
+  Definition: expect, believe, or suppose
+  Lemmas: ['think', 'opine', 'suppose', 'imagine', 'reckon', 'guess']
+  Relation (Hypernyms): ['expect.v.01']
+
+--- Meaning 3: think.v.03 ---
+  Definition: use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments
+  Lemmas: ['think', 'cogitate', 'cerebrate']
+
+--- Meaning 4: remember.v.01 ---
+  Definition: recall knowledge from memory; have a recollection
+  Lemmas: ['remember', 'retrieve', 'recall', 'call_back', 'call_up', 'recollect', 'think']
+
+--- Meaning 5: think.v.05 ---
+  Definition: imagine or visualize
+  Lemmas: ['think']
+  Relation (Hypernyms): ['imagine.v.01']
+
+--- Meaning 6: think.v.06 ---
+  Definition: focus one's attention on a certain state
+  Lemmas: ['think']
+  Relation (Hypernyms): ['concentrate.v.02']
+
+--- Meaning 7: intend.v.01 ---
+  Definition: have in mind as a purpose
+  Lemmas: ['intend', 'mean', 'think']
+
+--- Meaning 8: think.v.08 ---
+  Definition: decide by pondering, reasoning, or reflecting
+  Lemmas: ['think']
+  Relation (Hypernyms): ['think.v.03']
+
+--- Meaning 9: think.v.09 ---
+  Definition: ponder; reflect on, or reason about
+  Lemmas: ['think']
+  Relation (Hypernyms): ['think.v.03']
+
+--- Meaning 10: think.v.10 ---
+  Definition: dispose the mind in a certain way
+  Lemmas: ['think']
+  Relation (Hypernyms): ['think.v.01']
+
+--- Meaning 11: think.v.11 ---
+  Definition: have or formulate in the mind
+  Lemmas: ['think']
+  Relation (Hypernyms): ['think.v.03']
+
+--- Meaning 12: think.v.12 ---
+  Definition: be capable of conscious thought
+  Lemmas: ['think']
+
+--- Meaning 13: think.v.13 ---
+  Definition: bring into a given condition by mental preoccupation
+  Lemmas: ['think']
+  Relation (Hypernyms): ['change.v.01']
+
+========================================
+ PALABRA: happy (Tipo: a)
+========================================
+
+--- Meaning 1: happy.a.01 ---
+  Definition: enjoying or showing or marked by joy or pleasure
+  Lemmas: ['happy']
+
+--- Meaning 2: felicitous.s.01 ---
+  Definition: marked by good fortune
+  Lemmas: ['felicitous', 'happy']
+
+--- Meaning 3: glad.s.01 ---
+  Definition: eagerly disposed to act or to be of service
+  Lemmas: ['glad', 'happy']
+
+--- Meaning 4: happy.s.03 ---
+  Definition: well expressed and to the point
+  Lemmas: ['happy', 'well-chosen']
+
+========================================
+ PALABRA: strong (Tipo: a)
+========================================
+
+--- Meaning 1: strong.a.01 ---
+  Definition: having strength or power greater than average or expected
+  Lemmas: ['strong']
+
+--- Meaning 2: strong.s.01 ---
+  Definition: not faint or feeble
+  Lemmas: ['strong']
+
+--- Meaning 3: potent.s.02 ---
+  Definition: having or wielding force or authority
+  Lemmas: ['potent', 'strong']
+
+--- Meaning 4: potent.a.03 ---
+  Definition: having a strong physiological or chemical effect; ; ; ,
+  Lemmas: ['potent', 'strong', 'stiff']
+
+--- Meaning 5: impregnable.s.01 ---
+  Definition: immune to attack; incapable of being tampered with
+  Lemmas: ['impregnable', 'inviolable', 'secure', 'strong', 'unassailable', 'unattackable']
+
+--- Meaning 6: solid.s.05 ---
+  Definition: of good quality and condition; solidly built
+  Lemmas: ['solid', 'strong', 'substantial']
+
+--- Meaning 7: strong.s.05 ---
+  Definition: of verbs not having standard (or regular) inflection
+  Lemmas: ['strong']
+
+--- Meaning 8: hard.s.04 ---
+  Definition: being distilled rather than fermented; having a high alcoholic content
+  Lemmas: ['hard', 'strong']
+
+--- Meaning 9: strong.s.07 ---
+  Definition: freshly made or left
+  Lemmas: ['strong', 'warm']
+
+--- Meaning 10: firm.s.03 ---
+  Definition: strong and sure
+  Lemmas: ['firm', 'strong']
+

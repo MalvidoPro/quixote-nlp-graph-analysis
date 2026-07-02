@@ -1,0 +1,3936 @@
+{
+    "116_CHAPTER LXIV.": [
+        {
+            "name": "don quixote",
+            "start": 6,
+            "end": 8,
+            "sentence": 0
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 20,
+            "end": 23,
+            "sentence": 0
+        },
+        {
+            "name": "ana felix",
+            "start": 34,
+            "end": 36,
+            "sentence": 0
+        },
+        {
+            "name": "don quixote",
+            "start": 93,
+            "end": 95,
+            "sentence": 2
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 96,
+            "end": 98,
+            "sentence": 2
+        },
+        {
+            "name": "don gregorio",
+            "start": 104,
+            "end": 106,
+            "sentence": 2
+        },
+        {
+            "name": "don gaiferos",
+            "start": 153,
+            "end": 155,
+            "sentence": 2
+        },
+        {
+            "name": "melisendra",
+            "start": 159,
+            "end": 160,
+            "sentence": 2
+        },
+        {
+            "name": "sancho panza",
+            "start": 169,
+            "end": 170,
+            "sentence": 3
+        },
+        {
+            "name": "don gaiferos",
+            "start": 178,
+            "end": 180,
+            "sentence": 3
+        },
+        {
+            "name": "don gregorio",
+            "start": 207,
+            "end": 209,
+            "sentence": 3
+        },
+        {
+            "name": "don quixote",
+            "start": 240,
+            "end": 242,
+            "sentence": 4
+        },
+        {
+            "name": "sancho panza",
+            "start": 285,
+            "end": 286,
+            "sentence": 5
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 321,
+            "end": 323,
+            "sentence": 6
+        },
+        {
+            "name": "don quixote",
+            "start": 339,
+            "end": 341,
+            "sentence": 6
+        },
+        {
+            "name": "don gregorio",
+            "start": 398,
+            "end": 400,
+            "sentence": 7
+        },
+        {
+            "name": "ana felix",
+            "start": 402,
+            "end": 404,
+            "sentence": 7
+        },
+        {
+            "name": "don quixote",
+            "start": 418,
+            "end": 420,
+            "sentence": 8
+        },
+        {
+            "name": "don quixote",
+            "start": 507,
+            "end": 509,
+            "sentence": 8
+        },
+        {
+            "name": "don quixote",
+            "start": 518,
+            "end": 520,
+            "sentence": 8
+        },
+        {
+            "name": "samson carrasco",
+            "start": 526,
+            "end": 532,
+            "sentence": 8
+        },
+        {
+            "name": "don quixote",
+            "start": 760,
+            "end": 762,
+            "sentence": 12
+        },
+        {
+            "name": "samson carrasco",
+            "start": 770,
+            "end": 776,
+            "sentence": 12
+        },
+        {
+            "name": "dulcinea",
+            "start": 824,
+            "end": 825,
+            "sentence": 12
+        },
+        {
+            "name": "samson carrasco",
+            "start": 1000,
+            "end": 1006,
+            "sentence": 15
+        },
+        {
+            "name": "don quixote",
+            "start": 1025,
+            "end": 1027,
+            "sentence": 15
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 1041,
+            "end": 1044,
+            "sentence": 16
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 1061,
+            "end": 1063,
+            "sentence": 16
+        },
+        {
+            "name": "don quixote",
+            "start": 1070,
+            "end": 1072,
+            "sentence": 16
+        },
+        {
+            "name": "rocinante",
+            "start": 1074,
+            "end": 1075,
+            "sentence": 16
+        },
+        {
+            "name": "samson carrasco",
+            "start": 1130,
+            "end": 1136,
+            "sentence": 18
+        },
+        {
+            "name": "don quixote",
+            "start": 1156,
+            "end": 1158,
+            "sentence": 18
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 1180,
+            "end": 1182,
+            "sentence": 19
+        },
+        {
+            "name": "samson carrasco",
+            "start": 1193,
+            "end": 1199,
+            "sentence": 19
+        },
+        {
+            "name": "don quixote",
+            "start": 1210,
+            "end": 1212,
+            "sentence": 19
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 1213,
+            "end": 1215,
+            "sentence": 20
+        },
+        {
+            "name": "don quixote",
+            "start": 1298,
+            "end": 1300,
+            "sentence": 21
+        },
+        {
+            "name": "don quixote",
+            "start": 1351,
+            "end": 1353,
+            "sentence": 22
+        },
+        {
+            "name": "don quixote",
+            "start": 1441,
+            "end": 1443,
+            "sentence": 22
+        },
+        {
+            "name": "don quixote",
+            "start": 1483,
+            "end": 1485,
+            "sentence": 22
+        },
+        {
+            "name": "rocinante",
+            "start": 1486,
+            "end": 1487,
+            "sentence": 22
+        },
+        {
+            "name": "don quixote",
+            "start": 1533,
+            "end": 1535,
+            "sentence": 24
+        },
+        {
+            "name": "dulcinea",
+            "start": 1561,
+            "end": 1564,
+            "sentence": 24
+        },
+        {
+            "name": "dulcinea",
+            "start": 1640,
+            "end": 1641,
+            "sentence": 25
+        },
+        {
+            "name": "don quixote",
+            "start": 1654,
+            "end": 1656,
+            "sentence": 25
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 1693,
+            "end": 1695,
+            "sentence": 26
+        },
+        {
+            "name": "don quixote",
+            "start": 1710,
+            "end": 1712,
+            "sentence": 26
+        },
+        {
+            "name": "dulcinea",
+            "start": 1721,
+            "end": 1722,
+            "sentence": 26
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 1778,
+            "end": 1780,
+            "sentence": 28
+        },
+        {
+            "name": "don quixote",
+            "start": 1798,
+            "end": 1800,
+            "sentence": 29
+        },
+        {
+            "name": "rocinante",
+            "start": 1815,
+            "end": 1816,
+            "sentence": 30
+        },
+        {
+            "name": "sancho panza",
+            "start": 1832,
+            "end": 1833,
+            "sentence": 31
+        },
+        {
+            "name": "rocinante",
+            "start": 1910,
+            "end": 1911,
+            "sentence": 34
+        },
+        {
+            "name": "don quixote",
+            "start": 1987,
+            "end": 1989,
+            "sentence": 35
+        }
+    ],
+    "117_CHAPTER LXV.": [
+        {
+            "name": "don gregorio",
+            "start": 14,
+            "end": 17,
+            "sentence": 1
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 22,
+            "end": 25,
+            "sentence": 1
+        },
+        {
+            "name": "samson carrasco",
+            "start": 26,
+            "end": 32,
+            "sentence": 1
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 62,
+            "end": 64,
+            "sentence": 2
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 98,
+            "end": 100,
+            "sentence": 3
+        },
+        {
+            "name": "samson carrasco",
+            "start": 207,
+            "end": 209,
+            "sentence": 5
+        },
+        {
+            "name": "don quixote",
+            "start": 217,
+            "end": 219,
+            "sentence": 6
+        },
+        {
+            "name": "samson carrasco",
+            "start": 304,
+            "end": 309,
+            "sentence": 7
+        },
+        {
+            "name": "don quixote",
+            "start": 526,
+            "end": 528,
+            "sentence": 14
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 573,
+            "end": 574,
+            "sentence": 15
+        },
+        {
+            "name": "don quixote",
+            "start": 614,
+            "end": 617,
+            "sentence": 16
+        },
+        {
+            "name": "don quixote",
+            "start": 666,
+            "end": 668,
+            "sentence": 17
+        },
+        {
+            "name": "sancho panza",
+            "start": 687,
+            "end": 689,
+            "sentence": 17
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 766,
+            "end": 769,
+            "sentence": 19
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 824,
+            "end": 826,
+            "sentence": 20
+        },
+        {
+            "name": "samson carrasco",
+            "start": 831,
+            "end": 832,
+            "sentence": 20
+        },
+        {
+            "name": "don quixote",
+            "start": 849,
+            "end": 852,
+            "sentence": 20
+        },
+        {
+            "name": "don quixote",
+            "start": 873,
+            "end": 875,
+            "sentence": 21
+        },
+        {
+            "name": "sancho panza",
+            "start": 898,
+            "end": 899,
+            "sentence": 22
+        },
+        {
+            "name": "sancho panza",
+            "start": 1110,
+            "end": 1111,
+            "sentence": 25
+        },
+        {
+            "name": "don quixote",
+            "start": 1114,
+            "end": 1116,
+            "sentence": 25
+        },
+        {
+            "name": "sancho panza",
+            "start": 1174,
+            "end": 1175,
+            "sentence": 26
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 1199,
+            "end": 1201,
+            "sentence": 27
+        },
+        {
+            "name": "don quixote",
+            "start": 1218,
+            "end": 1220,
+            "sentence": 27
+        },
+        {
+            "name": "don gregorio",
+            "start": 1221,
+            "end": 1223,
+            "sentence": 28
+        },
+        {
+            "name": "don quixote",
+            "start": 1257,
+            "end": 1259,
+            "sentence": 30
+        },
+        {
+            "name": "don gregorio",
+            "start": 1318,
+            "end": 1320,
+            "sentence": 30
+        },
+        {
+            "name": "sancho panza",
+            "start": 1414,
+            "end": 1415,
+            "sentence": 36
+        },
+        {
+            "name": "don gregorio",
+            "start": 1507,
+            "end": 1509,
+            "sentence": 36
+        },
+        {
+            "name": "don gregorio",
+            "start": 1540,
+            "end": 1542,
+            "sentence": 36
+        },
+        {
+            "name": "don gregorio",
+            "start": 1558,
+            "end": 1560,
+            "sentence": 36
+        },
+        {
+            "name": "ana felix",
+            "start": 1564,
+            "end": 1566,
+            "sentence": 36
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 1572,
+            "end": 1575,
+            "sentence": 36
+        },
+        {
+            "name": "ricote",
+            "start": 1651,
+            "end": 1652,
+            "sentence": 38
+        },
+        {
+            "name": "don gregorio",
+            "start": 1699,
+            "end": 1701,
+            "sentence": 41
+        },
+        {
+            "name": "ana felix",
+            "start": 1705,
+            "end": 1707,
+            "sentence": 41
+        },
+        {
+            "name": "don gregorio",
+            "start": 1754,
+            "end": 1756,
+            "sentence": 43
+        },
+        {
+            "name": "don gregorio",
+            "start": 1758,
+            "end": 1760,
+            "sentence": 43
+        },
+        {
+            "name": "ricote",
+            "start": 1806,
+            "end": 1807,
+            "sentence": 44
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 1863,
+            "end": 1865,
+            "sentence": 45
+        },
+        {
+            "name": "ana felix",
+            "start": 1872,
+            "end": 1874,
+            "sentence": 45
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 1913,
+            "end": 1915,
+            "sentence": 46
+        },
+        {
+            "name": "ricote",
+            "start": 1957,
+            "end": 1958,
+            "sentence": 47
+        },
+        {
+            "name": "bernardino de velasco",
+            "start": 1983,
+            "end": 1986,
+            "sentence": 47
+        },
+        {
+            "name": "bernardino de velasco",
+            "start": 2178,
+            "end": 2181,
+            "sentence": 48
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 2190,
+            "end": 2192,
+            "sentence": 49
+        },
+        {
+            "name": "don gregorio",
+            "start": 2214,
+            "end": 2216,
+            "sentence": 49
+        },
+        {
+            "name": "ana felix",
+            "start": 2236,
+            "end": 2238,
+            "sentence": 49
+        },
+        {
+            "name": "ricote",
+            "start": 2263,
+            "end": 2264,
+            "sentence": 49
+        },
+        {
+            "name": "don gregorio",
+            "start": 2288,
+            "end": 2290,
+            "sentence": 50
+        },
+        {
+            "name": "ana felix",
+            "start": 2306,
+            "end": 2308,
+            "sentence": 50
+        },
+        {
+            "name": "ana felix",
+            "start": 2339,
+            "end": 2341,
+            "sentence": 51
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 2343,
+            "end": 2346,
+            "sentence": 51
+        },
+        {
+            "name": "ricote",
+            "start": 2349,
+            "end": 2350,
+            "sentence": 51
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 2359,
+            "end": 2362,
+            "sentence": 52
+        },
+        {
+            "name": "don quixote",
+            "start": 2371,
+            "end": 2374,
+            "sentence": 52
+        },
+        {
+            "name": "sancho panza",
+            "start": 2375,
+            "end": 2376,
+            "sentence": 52
+        },
+        {
+            "name": "don quixote",
+            "start": 2379,
+            "end": 2382,
+            "sentence": 52
+        },
+        {
+            "name": "don gregorio",
+            "start": 2407,
+            "end": 2409,
+            "sentence": 53
+        },
+        {
+            "name": "ana felix",
+            "start": 2410,
+            "end": 2412,
+            "sentence": 53
+        },
+        {
+            "name": "ricote",
+            "start": 2413,
+            "end": 2414,
+            "sentence": 54
+        },
+        {
+            "name": "don gregorio",
+            "start": 2415,
+            "end": 2417,
+            "sentence": 54
+        },
+        {
+            "name": "don antonio moreno",
+            "start": 2435,
+            "end": 2437,
+            "sentence": 54
+        },
+        {
+            "name": "don quixote",
+            "start": 2458,
+            "end": 2460,
+            "sentence": 55
+        },
+        {
+            "name": "sancho panza",
+            "start": 2461,
+            "end": 2462,
+            "sentence": 55
+        },
+        {
+            "name": "don quixote",
+            "start": 2471,
+            "end": 2472,
+            "sentence": 55
+        },
+        {
+            "name": "sancho panza",
+            "start": 2481,
+            "end": 2482,
+            "sentence": 55
+        },
+        {
+            "name": "dapple",
+            "start": 2485,
+            "end": 2486,
+            "sentence": 55
+        }
+    ],
+    "118_CHAPTER LXVI.": [
+        {
+            "name": "don quixote",
+            "start": 26,
+            "end": 28,
+            "sentence": 0
+        },
+        {
+            "name": "sancho panza",
+            "start": 107,
+            "end": 108,
+            "sentence": 3
+        },
+        {
+            "name": "sancho panza",
+            "start": 220,
+            "end": 221,
+            "sentence": 4
+        },
+        {
+            "name": "don quixote",
+            "start": 224,
+            "end": 226,
+            "sentence": 4
+        },
+        {
+            "name": "rocinante",
+            "start": 337,
+            "end": 338,
+            "sentence": 6
+        },
+        {
+            "name": "samson carrasco",
+            "start": 348,
+            "end": 354,
+            "sentence": 6
+        },
+        {
+            "name": "sancho panza",
+            "start": 440,
+            "end": 441,
+            "sentence": 9
+        },
+        {
+            "name": "sancho panza",
+            "start": 488,
+            "end": 489,
+            "sentence": 10
+        },
+        {
+            "name": "dapple",
+            "start": 537,
+            "end": 538,
+            "sentence": 11
+        },
+        {
+            "name": "sancho panza",
+            "start": 588,
+            "end": 589,
+            "sentence": 12
+        },
+        {
+            "name": "don quixote",
+            "start": 592,
+            "end": 594,
+            "sentence": 12
+        },
+        {
+            "name": "roland",
+            "start": 625,
+            "end": 626,
+            "sentence": 12
+        },
+        {
+            "name": "roland",
+            "start": 638,
+            "end": 639,
+            "sentence": 12
+        },
+        {
+            "name": "sancho panza",
+            "start": 651,
+            "end": 652,
+            "sentence": 13
+        },
+        {
+            "name": "rocinante",
+            "start": 666,
+            "end": 667,
+            "sentence": 13
+        },
+        {
+            "name": "don quixote",
+            "start": 703,
+            "end": 705,
+            "sentence": 14
+        },
+        {
+            "name": "sancho panza",
+            "start": 732,
+            "end": 733,
+            "sentence": 15
+        },
+        {
+            "name": "rocinante",
+            "start": 794,
+            "end": 795,
+            "sentence": 15
+        },
+        {
+            "name": "don quixote",
+            "start": 874,
+            "end": 877,
+            "sentence": 17
+        },
+        {
+            "name": "don quixote",
+            "start": 923,
+            "end": 925,
+            "sentence": 18
+        },
+        {
+            "name": "sancho panza",
+            "start": 1078,
+            "end": 1079,
+            "sentence": 21
+        },
+        {
+            "name": "don quixote",
+            "start": 1083,
+            "end": 1085,
+            "sentence": 21
+        },
+        {
+            "name": "sancho panza",
+            "start": 1138,
+            "end": 1139,
+            "sentence": 22
+        },
+        {
+            "name": "don quixote",
+            "start": 1144,
+            "end": 1146,
+            "sentence": 22
+        },
+        {
+            "name": "sancho panza",
+            "start": 1172,
+            "end": 1173,
+            "sentence": 23
+        },
+        {
+            "name": "sancho panza",
+            "start": 1353,
+            "end": 1354,
+            "sentence": 25
+        },
+        {
+            "name": "don quixote",
+            "start": 1484,
+            "end": 1486,
+            "sentence": 28
+        },
+        {
+            "name": "rocinante",
+            "start": 1516,
+            "end": 1517,
+            "sentence": 28
+        },
+        {
+            "name": "sancho panza",
+            "start": 1549,
+            "end": 1550,
+            "sentence": 28
+        },
+        {
+            "name": "don quixote",
+            "start": 1710,
+            "end": 1712,
+            "sentence": 30
+        },
+        {
+            "name": "don quixote",
+            "start": 1745,
+            "end": 1747,
+            "sentence": 30
+        },
+        {
+            "name": "don quixote",
+            "start": 1799,
+            "end": 1801,
+            "sentence": 31
+        },
+        {
+            "name": "tosilos",
+            "start": 1820,
+            "end": 1821,
+            "sentence": 32
+        },
+        {
+            "name": "don quixote",
+            "start": 1830,
+            "end": 1832,
+            "sentence": 32
+        },
+        {
+            "name": "do\u00f1a rodriguez",
+            "start": 1852,
+            "end": 1853,
+            "sentence": 32
+        },
+        {
+            "name": "don quixote",
+            "start": 1862,
+            "end": 1864,
+            "sentence": 33
+        },
+        {
+            "name": "tosilos",
+            "start": 1928,
+            "end": 1929,
+            "sentence": 34
+        },
+        {
+            "name": "tosilos",
+            "start": 1936,
+            "end": 1937,
+            "sentence": 34
+        },
+        {
+            "name": "do\u00f1a rodriguez",
+            "start": 2018,
+            "end": 2020,
+            "sentence": 35
+        },
+        {
+            "name": "sancho panza",
+            "start": 2105,
+            "end": 2106,
+            "sentence": 37
+        },
+        {
+            "name": "tosilos",
+            "start": 2118,
+            "end": 2119,
+            "sentence": 37
+        },
+        {
+            "name": "sancho panza",
+            "start": 2142,
+            "end": 2143,
+            "sentence": 38
+        },
+        {
+            "name": "don quixote",
+            "start": 2146,
+            "end": 2148,
+            "sentence": 38
+        },
+        {
+            "name": "tosilos",
+            "start": 2170,
+            "end": 2171,
+            "sentence": 38
+        },
+        {
+            "name": "sancho panza",
+            "start": 2221,
+            "end": 2222,
+            "sentence": 39
+        },
+        {
+            "name": "tosilos",
+            "start": 2266,
+            "end": 2267,
+            "sentence": 40
+        },
+        {
+            "name": "sancho panza",
+            "start": 2268,
+            "end": 2269,
+            "sentence": 40
+        },
+        {
+            "name": "sancho panza",
+            "start": 2275,
+            "end": 2276,
+            "sentence": 40
+        },
+        {
+            "name": "sancho panza",
+            "start": 2295,
+            "end": 2296,
+            "sentence": 41
+        },
+        {
+            "name": "samson carrasco",
+            "start": 2352,
+            "end": 2358,
+            "sentence": 43
+        },
+        {
+            "name": "tosilos",
+            "start": 2360,
+            "end": 2361,
+            "sentence": 44
+        },
+        {
+            "name": "sancho panza",
+            "start": 2371,
+            "end": 2372,
+            "sentence": 44
+        },
+        {
+            "name": "dapple",
+            "start": 2424,
+            "end": 2425,
+            "sentence": 44
+        },
+        {
+            "name": "tosilos",
+            "start": 2433,
+            "end": 2434,
+            "sentence": 44
+        }
+    ],
+    "119_CHAPTER LXVII.": [
+        {
+            "name": "don quixote",
+            "start": 3,
+            "end": 5,
+            "sentence": 0
+        },
+        {
+            "name": "don quixote",
+            "start": 47,
+            "end": 49,
+            "sentence": 1
+        },
+        {
+            "name": "dulcinea",
+            "start": 104,
+            "end": 105,
+            "sentence": 3
+        },
+        {
+            "name": "sancho panza",
+            "start": 120,
+            "end": 121,
+            "sentence": 4
+        },
+        {
+            "name": "tosilos",
+            "start": 135,
+            "end": 136,
+            "sentence": 4
+        },
+        {
+            "name": "sancho panza",
+            "start": 142,
+            "end": 143,
+            "sentence": 5
+        },
+        {
+            "name": "don quixote",
+            "start": 146,
+            "end": 148,
+            "sentence": 5
+        },
+        {
+            "name": "dulcinea",
+            "start": 173,
+            "end": 174,
+            "sentence": 6
+        },
+        {
+            "name": "samson carrasco",
+            "start": 183,
+            "end": 188,
+            "sentence": 6
+        },
+        {
+            "name": "samson carrasco",
+            "start": 191,
+            "end": 192,
+            "sentence": 6
+        },
+        {
+            "name": "tosilos",
+            "start": 212,
+            "end": 213,
+            "sentence": 7
+        },
+        {
+            "name": "altisidora",
+            "start": 223,
+            "end": 224,
+            "sentence": 7
+        },
+        {
+            "name": "sancho panza",
+            "start": 262,
+            "end": 263,
+            "sentence": 8
+        },
+        {
+            "name": "sancho panza",
+            "start": 310,
+            "end": 311,
+            "sentence": 11
+        },
+        {
+            "name": "don quixote",
+            "start": 314,
+            "end": 316,
+            "sentence": 11
+        },
+        {
+            "name": "altisidora",
+            "start": 362,
+            "end": 363,
+            "sentence": 13
+        },
+        {
+            "name": "dulcinea",
+            "start": 443,
+            "end": 444,
+            "sentence": 14
+        },
+        {
+            "name": "dulcinea",
+            "start": 492,
+            "end": 493,
+            "sentence": 14
+        },
+        {
+            "name": "sancho panza",
+            "start": 541,
+            "end": 542,
+            "sentence": 15
+        },
+        {
+            "name": "don quixote",
+            "start": 658,
+            "end": 660,
+            "sentence": 17
+        },
+        {
+            "name": "don quixote",
+            "start": 722,
+            "end": 724,
+            "sentence": 19
+        },
+        {
+            "name": "sancho panza",
+            "start": 731,
+            "end": 732,
+            "sentence": 19
+        },
+        {
+            "name": "sancho panza",
+            "start": 782,
+            "end": 783,
+            "sentence": 19
+        },
+        {
+            "name": "don quixote",
+            "start": 827,
+            "end": 828,
+            "sentence": 20
+        },
+        {
+            "name": "sancho panza",
+            "start": 976,
+            "end": 977,
+            "sentence": 22
+        },
+        {
+            "name": "samson carrasco",
+            "start": 999,
+            "end": 1001,
+            "sentence": 22
+        },
+        {
+            "name": "the barber",
+            "start": 1003,
+            "end": 1004,
+            "sentence": 22
+        },
+        {
+            "name": "sancho panza",
+            "start": 1064,
+            "end": 1065,
+            "sentence": 23
+        },
+        {
+            "name": "don quixote",
+            "start": 1068,
+            "end": 1070,
+            "sentence": 23
+        },
+        {
+            "name": "samson carrasco",
+            "start": 1075,
+            "end": 1077,
+            "sentence": 23
+        },
+        {
+            "name": "samson carrasco",
+            "start": 1102,
+            "end": 1103,
+            "sentence": 23
+        },
+        {
+            "name": "the barber",
+            "start": 1104,
+            "end": 1105,
+            "sentence": 23
+        },
+        {
+            "name": "curiambro",
+            "start": 1150,
+            "end": 1151,
+            "sentence": 23
+        },
+        {
+            "name": "sancho panza",
+            "start": 1208,
+            "end": 1209,
+            "sentence": 24
+        },
+        {
+            "name": "sancho panza",
+            "start": 1233,
+            "end": 1234,
+            "sentence": 25
+        },
+        {
+            "name": "teresa panza",
+            "start": 1254,
+            "end": 1255,
+            "sentence": 25
+        },
+        {
+            "name": "sancho panza",
+            "start": 1339,
+            "end": 1340,
+            "sentence": 27
+        },
+        {
+            "name": "don quixote",
+            "start": 1345,
+            "end": 1347,
+            "sentence": 27
+        },
+        {
+            "name": "sancho panza",
+            "start": 1407,
+            "end": 1408,
+            "sentence": 30
+        },
+        {
+            "name": "don quixote",
+            "start": 1430,
+            "end": 1432,
+            "sentence": 31
+        },
+        {
+            "name": "samson carrasco",
+            "start": 1640,
+            "end": 1642,
+            "sentence": 35
+        },
+        {
+            "name": "the barber",
+            "start": 1672,
+            "end": 1673,
+            "sentence": 36
+        },
+        {
+            "name": "samson carrasco",
+            "start": 1709,
+            "end": 1710,
+            "sentence": 37
+        },
+        {
+            "name": "curiambro",
+            "start": 1720,
+            "end": 1721,
+            "sentence": 37
+        },
+        {
+            "name": "sancho panza",
+            "start": 1743,
+            "end": 1744,
+            "sentence": 38
+        },
+        {
+            "name": "sanchica",
+            "start": 1824,
+            "end": 1825,
+            "sentence": 42
+        },
+        {
+            "name": "sancho panza",
+            "start": 1945,
+            "end": 1946,
+            "sentence": 46
+        },
+        {
+            "name": "don quixote",
+            "start": 1950,
+            "end": 1951,
+            "sentence": 46
+        },
+        {
+            "name": "sancho panza",
+            "start": 2027,
+            "end": 2028,
+            "sentence": 47
+        },
+        {
+            "name": "sancho panza",
+            "start": 2074,
+            "end": 2075,
+            "sentence": 49
+        },
+        {
+            "name": "don quixote",
+            "start": 2078,
+            "end": 2080,
+            "sentence": 49
+        },
+        {
+            "name": "sancho panza",
+            "start": 2229,
+            "end": 2230,
+            "sentence": 51
+        },
+        {
+            "name": "don diego de miranda",
+            "start": 2266,
+            "end": 2270,
+            "sentence": 51
+        },
+        {
+            "name": "camacho",
+            "start": 2275,
+            "end": 2276,
+            "sentence": 51
+        }
+    ],
+    "120_CHAPTER LXVIII.": [
+        {
+            "name": "don quixote",
+            "start": 6,
+            "end": 8,
+            "sentence": 0
+        },
+        {
+            "name": "don quixote",
+            "start": 60,
+            "end": 62,
+            "sentence": 1
+        },
+        {
+            "name": "sancho panza",
+            "start": 85,
+            "end": 86,
+            "sentence": 1
+        },
+        {
+            "name": "don quixote",
+            "start": 116,
+            "end": 119,
+            "sentence": 2
+        },
+        {
+            "name": "sancho panza",
+            "start": 130,
+            "end": 131,
+            "sentence": 2
+        },
+        {
+            "name": "sancho panza",
+            "start": 141,
+            "end": 142,
+            "sentence": 2
+        },
+        {
+            "name": "dulcinea",
+            "start": 281,
+            "end": 282,
+            "sentence": 7
+        },
+        {
+            "name": "sancho panza",
+            "start": 371,
+            "end": 372,
+            "sentence": 9
+        },
+        {
+            "name": "don quixote",
+            "start": 460,
+            "end": 462,
+            "sentence": 12
+        },
+        {
+            "name": "sancho panza",
+            "start": 542,
+            "end": 543,
+            "sentence": 15
+        },
+        {
+            "name": "sancho panza",
+            "start": 695,
+            "end": 696,
+            "sentence": 17
+        },
+        {
+            "name": "don quixote",
+            "start": 699,
+            "end": 701,
+            "sentence": 17
+        },
+        {
+            "name": "sancho panza",
+            "start": 748,
+            "end": 749,
+            "sentence": 18
+        },
+        {
+            "name": "don quixote",
+            "start": 827,
+            "end": 829,
+            "sentence": 20
+        },
+        {
+            "name": "sancho panza",
+            "start": 840,
+            "end": 841,
+            "sentence": 20
+        },
+        {
+            "name": "dapple",
+            "start": 844,
+            "end": 845,
+            "sentence": 20
+        },
+        {
+            "name": "don quixote",
+            "start": 874,
+            "end": 877,
+            "sentence": 20
+        },
+        {
+            "name": "don quixote",
+            "start": 964,
+            "end": 966,
+            "sentence": 22
+        },
+        {
+            "name": "sancho panza",
+            "start": 967,
+            "end": 969,
+            "sentence": 22
+        },
+        {
+            "name": "don quixote",
+            "start": 999,
+            "end": 1002,
+            "sentence": 23
+        },
+        {
+            "name": "sancho panza",
+            "start": 1004,
+            "end": 1005,
+            "sentence": 23
+        },
+        {
+            "name": "sancho panza",
+            "start": 1016,
+            "end": 1017,
+            "sentence": 23
+        },
+        {
+            "name": "don quixote",
+            "start": 1024,
+            "end": 1026,
+            "sentence": 23
+        },
+        {
+            "name": "rocinante",
+            "start": 1028,
+            "end": 1029,
+            "sentence": 23
+        },
+        {
+            "name": "dapple",
+            "start": 1061,
+            "end": 1062,
+            "sentence": 23
+        },
+        {
+            "name": "rocinante",
+            "start": 1063,
+            "end": 1064,
+            "sentence": 23
+        },
+        {
+            "name": "sancho panza",
+            "start": 1071,
+            "end": 1072,
+            "sentence": 23
+        },
+        {
+            "name": "don quixote",
+            "start": 1073,
+            "end": 1075,
+            "sentence": 23
+        },
+        {
+            "name": "sancho panza",
+            "start": 1081,
+            "end": 1082,
+            "sentence": 24
+        },
+        {
+            "name": "don quixote",
+            "start": 1138,
+            "end": 1140,
+            "sentence": 25
+        },
+        {
+            "name": "sancho panza",
+            "start": 1193,
+            "end": 1194,
+            "sentence": 26
+        },
+        {
+            "name": "sancho panza",
+            "start": 1258,
+            "end": 1259,
+            "sentence": 28
+        },
+        {
+            "name": "don quixote",
+            "start": 1263,
+            "end": 1264,
+            "sentence": 28
+        },
+        {
+            "name": "sancho panza",
+            "start": 1304,
+            "end": 1305,
+            "sentence": 30
+        },
+        {
+            "name": "don quixote",
+            "start": 1308,
+            "end": 1310,
+            "sentence": 30
+        },
+        {
+            "name": "sancho panza",
+            "start": 1376,
+            "end": 1377,
+            "sentence": 31
+        },
+        {
+            "name": "don quixote",
+            "start": 1450,
+            "end": 1452,
+            "sentence": 32
+        },
+        {
+            "name": "cide hamete benengeli",
+            "start": 1468,
+            "end": 1469,
+            "sentence": 32
+        },
+        {
+            "name": "dulcinea",
+            "start": 1603,
+            "end": 1604,
+            "sentence": 35
+        },
+        {
+            "name": "sancho panza",
+            "start": 1614,
+            "end": 1615,
+            "sentence": 36
+        },
+        {
+            "name": "don quixote",
+            "start": 1686,
+            "end": 1689,
+            "sentence": 39
+        },
+        {
+            "name": "sancho panza",
+            "start": 1693,
+            "end": 1694,
+            "sentence": 39
+        },
+        {
+            "name": "don quixote",
+            "start": 1716,
+            "end": 1718,
+            "sentence": 40
+        },
+        {
+            "name": "sancho panza",
+            "start": 1720,
+            "end": 1721,
+            "sentence": 40
+        },
+        {
+            "name": "don quixote",
+            "start": 1784,
+            "end": 1786,
+            "sentence": 41
+        },
+        {
+            "name": "rocinante",
+            "start": 1825,
+            "end": 1826,
+            "sentence": 42
+        },
+        {
+            "name": "sancho panza",
+            "start": 1840,
+            "end": 1841,
+            "sentence": 42
+        },
+        {
+            "name": "dapple",
+            "start": 1842,
+            "end": 1843,
+            "sentence": 42
+        },
+        {
+            "name": "don quixote",
+            "start": 1862,
+            "end": 1864,
+            "sentence": 42
+        },
+        {
+            "name": "sancho panza",
+            "start": 1907,
+            "end": 1908,
+            "sentence": 43
+        },
+        {
+            "name": "dapple",
+            "start": 1933,
+            "end": 1934,
+            "sentence": 43
+        },
+        {
+            "name": "sancho panza",
+            "start": 2033,
+            "end": 2034,
+            "sentence": 45
+        },
+        {
+            "name": "don quixote",
+            "start": 2108,
+            "end": 2110,
+            "sentence": 48
+        },
+        {
+            "name": "don quixote",
+            "start": 2177,
+            "end": 2179,
+            "sentence": 49
+        }
+    ],
+    "121_CHAPTER LXIX.": [
+        {
+            "name": "don quixote",
+            "start": 9,
+            "end": 11,
+            "sentence": 0
+        },
+        {
+            "name": "sancho panza",
+            "start": 39,
+            "end": 40,
+            "sentence": 0
+        },
+        {
+            "name": "don quixote",
+            "start": 41,
+            "end": 43,
+            "sentence": 0
+        },
+        {
+            "name": "don quixote",
+            "start": 280,
+            "end": 282,
+            "sentence": 5
+        },
+        {
+            "name": "sancho panza",
+            "start": 283,
+            "end": 284,
+            "sentence": 5
+        },
+        {
+            "name": "don quixote",
+            "start": 342,
+            "end": 344,
+            "sentence": 6
+        },
+        {
+            "name": "don quixote",
+            "start": 395,
+            "end": 397,
+            "sentence": 8
+        },
+        {
+            "name": "altisidora",
+            "start": 411,
+            "end": 412,
+            "sentence": 8
+        },
+        {
+            "name": "don quixote",
+            "start": 421,
+            "end": 423,
+            "sentence": 9
+        },
+        {
+            "name": "sancho panza",
+            "start": 424,
+            "end": 425,
+            "sentence": 9
+        },
+        {
+            "name": "sancho panza",
+            "start": 452,
+            "end": 453,
+            "sentence": 10
+        },
+        {
+            "name": "sancho panza",
+            "start": 519,
+            "end": 520,
+            "sentence": 11
+        },
+        {
+            "name": "don quixote",
+            "start": 590,
+            "end": 592,
+            "sentence": 13
+        },
+        {
+            "name": "sancho panza",
+            "start": 616,
+            "end": 617,
+            "sentence": 13
+        },
+        {
+            "name": "altisidora",
+            "start": 712,
+            "end": 713,
+            "sentence": 15
+        },
+        {
+            "name": "don quixote",
+            "start": 719,
+            "end": 722,
+            "sentence": 15
+        },
+        {
+            "name": "altisidora",
+            "start": 893,
+            "end": 894,
+            "sentence": 20
+        },
+        {
+            "name": "sancho panza",
+            "start": 915,
+            "end": 917,
+            "sentence": 20
+        },
+        {
+            "name": "rhadamanthus",
+            "start": 940,
+            "end": 941,
+            "sentence": 21
+        },
+        {
+            "name": "minos",
+            "start": 998,
+            "end": 999,
+            "sentence": 22
+        },
+        {
+            "name": "rhadamanthus",
+            "start": 1003,
+            "end": 1004,
+            "sentence": 22
+        },
+        {
+            "name": "rhadamanthus",
+            "start": 1008,
+            "end": 1009,
+            "sentence": 22
+        },
+        {
+            "name": "sancho panza",
+            "start": 1039,
+            "end": 1040,
+            "sentence": 22
+        },
+        {
+            "name": "altisidora",
+            "start": 1072,
+            "end": 1073,
+            "sentence": 22
+        },
+        {
+            "name": "sancho panza",
+            "start": 1078,
+            "end": 1079,
+            "sentence": 23
+        },
+        {
+            "name": "dulcinea",
+            "start": 1140,
+            "end": 1141,
+            "sentence": 27
+        },
+        {
+            "name": "altisidora",
+            "start": 1151,
+            "end": 1152,
+            "sentence": 27
+        },
+        {
+            "name": "rhadamanthus",
+            "start": 1237,
+            "end": 1238,
+            "sentence": 29
+        },
+        {
+            "name": "sancho panza",
+            "start": 1394,
+            "end": 1395,
+            "sentence": 32
+        },
+        {
+            "name": "don quixote",
+            "start": 1496,
+            "end": 1498,
+            "sentence": 34
+        },
+        {
+            "name": "sancho panza",
+            "start": 1506,
+            "end": 1507,
+            "sentence": 34
+        },
+        {
+            "name": "sancho panza",
+            "start": 1560,
+            "end": 1561,
+            "sentence": 35
+        },
+        {
+            "name": "sancho panza",
+            "start": 1617,
+            "end": 1618,
+            "sentence": 36
+        },
+        {
+            "name": "altisidora",
+            "start": 1731,
+            "end": 1732,
+            "sentence": 38
+        },
+        {
+            "name": "altisidora",
+            "start": 1764,
+            "end": 1765,
+            "sentence": 38
+        },
+        {
+            "name": "altisidora",
+            "start": 1768,
+            "end": 1769,
+            "sentence": 39
+        },
+        {
+            "name": "rhadamanthus",
+            "start": 1772,
+            "end": 1773,
+            "sentence": 40
+        },
+        {
+            "name": "sancho panza",
+            "start": 1774,
+            "end": 1775,
+            "sentence": 40
+        },
+        {
+            "name": "don quixote",
+            "start": 1792,
+            "end": 1794,
+            "sentence": 41
+        },
+        {
+            "name": "altisidora",
+            "start": 1795,
+            "end": 1796,
+            "sentence": 41
+        },
+        {
+            "name": "sancho panza",
+            "start": 1804,
+            "end": 1805,
+            "sentence": 41
+        },
+        {
+            "name": "dulcinea",
+            "start": 1846,
+            "end": 1847,
+            "sentence": 41
+        },
+        {
+            "name": "sancho panza",
+            "start": 1884,
+            "end": 1885,
+            "sentence": 43
+        },
+        {
+            "name": "altisidora",
+            "start": 2003,
+            "end": 2004,
+            "sentence": 46
+        },
+        {
+            "name": "altisidora",
+            "start": 2040,
+            "end": 2041,
+            "sentence": 46
+        },
+        {
+            "name": "altisidora",
+            "start": 2045,
+            "end": 2046,
+            "sentence": 46
+        },
+        {
+            "name": "minos",
+            "start": 2055,
+            "end": 2056,
+            "sentence": 47
+        },
+        {
+            "name": "rhadamanthus",
+            "start": 2057,
+            "end": 2058,
+            "sentence": 47
+        },
+        {
+            "name": "don quixote",
+            "start": 2066,
+            "end": 2068,
+            "sentence": 47
+        },
+        {
+            "name": "sancho panza",
+            "start": 2069,
+            "end": 2070,
+            "sentence": 47
+        },
+        {
+            "name": "don quixote",
+            "start": 2113,
+            "end": 2115,
+            "sentence": 47
+        },
+        {
+            "name": "sancho panza",
+            "start": 2180,
+            "end": 2181,
+            "sentence": 48
+        },
+        {
+            "name": "sancho panza",
+            "start": 2221,
+            "end": 2222,
+            "sentence": 49
+        },
+        {
+            "name": "sancho panza",
+            "start": 2261,
+            "end": 2262,
+            "sentence": 51
+        },
+        {
+            "name": "don quixote",
+            "start": 2338,
+            "end": 2340,
+            "sentence": 53
+        },
+        {
+            "name": "sancho panza",
+            "start": 2341,
+            "end": 2342,
+            "sentence": 53
+        }
+    ],
+    "122_CHAPTER LXX.": [
+        {
+            "name": "sancho panza",
+            "start": 17,
+            "end": 18,
+            "sentence": 0
+        },
+        {
+            "name": "don quixote",
+            "start": 29,
+            "end": 31,
+            "sentence": 0
+        },
+        {
+            "name": "sancho panza",
+            "start": 153,
+            "end": 154,
+            "sentence": 1
+        },
+        {
+            "name": "altisidora",
+            "start": 175,
+            "end": 176,
+            "sentence": 2
+        },
+        {
+            "name": "sancho panza",
+            "start": 226,
+            "end": 227,
+            "sentence": 4
+        },
+        {
+            "name": "altisidora",
+            "start": 269,
+            "end": 270,
+            "sentence": 5
+        },
+        {
+            "name": "sancho panza",
+            "start": 294,
+            "end": 296,
+            "sentence": 5
+        },
+        {
+            "name": "sancho panza",
+            "start": 366,
+            "end": 367,
+            "sentence": 9
+        },
+        {
+            "name": "don quixote",
+            "start": 372,
+            "end": 374,
+            "sentence": 9
+        },
+        {
+            "name": "sancho panza",
+            "start": 409,
+            "end": 410,
+            "sentence": 10
+        },
+        {
+            "name": "don quixote",
+            "start": 470,
+            "end": 472,
+            "sentence": 11
+        },
+        {
+            "name": "cide hamete benengeli",
+            "start": 482,
+            "end": 484,
+            "sentence": 12
+        },
+        {
+            "name": "samson carrasco",
+            "start": 521,
+            "end": 523,
+            "sentence": 13
+        },
+        {
+            "name": "samson carrasco",
+            "start": 532,
+            "end": 537,
+            "sentence": 13
+        },
+        {
+            "name": "don quixote",
+            "start": 543,
+            "end": 545,
+            "sentence": 13
+        },
+        {
+            "name": "don quixote",
+            "start": 577,
+            "end": 579,
+            "sentence": 13
+        },
+        {
+            "name": "sancho panza",
+            "start": 590,
+            "end": 591,
+            "sentence": 13
+        },
+        {
+            "name": "teresa panza",
+            "start": 594,
+            "end": 596,
+            "sentence": 13
+        },
+        {
+            "name": "tom cecial",
+            "start": 631,
+            "end": 633,
+            "sentence": 13
+        },
+        {
+            "name": "sancho panza",
+            "start": 643,
+            "end": 644,
+            "sentence": 13
+        },
+        {
+            "name": "don quixote",
+            "start": 645,
+            "end": 647,
+            "sentence": 13
+        },
+        {
+            "name": "don quixote",
+            "start": 666,
+            "end": 668,
+            "sentence": 14
+        },
+        {
+            "name": "dulcinea",
+            "start": 705,
+            "end": 706,
+            "sentence": 15
+        },
+        {
+            "name": "sancho panza",
+            "start": 710,
+            "end": 711,
+            "sentence": 15
+        },
+        {
+            "name": "sancho panza",
+            "start": 724,
+            "end": 725,
+            "sentence": 15
+        },
+        {
+            "name": "dulcinea",
+            "start": 735,
+            "end": 736,
+            "sentence": 15
+        },
+        {
+            "name": "sancho panza",
+            "start": 756,
+            "end": 757,
+            "sentence": 15
+        },
+        {
+            "name": "dulcinea",
+            "start": 768,
+            "end": 769,
+            "sentence": 15
+        },
+        {
+            "name": "sancho panza",
+            "start": 792,
+            "end": 793,
+            "sentence": 15
+        },
+        {
+            "name": "don quixote",
+            "start": 799,
+            "end": 802,
+            "sentence": 15
+        },
+        {
+            "name": "don quixote",
+            "start": 844,
+            "end": 846,
+            "sentence": 17
+        },
+        {
+            "name": "don quixote",
+            "start": 889,
+            "end": 891,
+            "sentence": 18
+        },
+        {
+            "name": "don quixote",
+            "start": 960,
+            "end": 962,
+            "sentence": 18
+        },
+        {
+            "name": "don quixote",
+            "start": 987,
+            "end": 989,
+            "sentence": 19
+        },
+        {
+            "name": "sancho panza",
+            "start": 1017,
+            "end": 1018,
+            "sentence": 20
+        },
+        {
+            "name": "don quixote",
+            "start": 1019,
+            "end": 1021,
+            "sentence": 20
+        },
+        {
+            "name": "don quixote",
+            "start": 1036,
+            "end": 1038,
+            "sentence": 21
+        },
+        {
+            "name": "cide hamete benengeli",
+            "start": 1159,
+            "end": 1161,
+            "sentence": 23
+        },
+        {
+            "name": "don quixote",
+            "start": 1259,
+            "end": 1261,
+            "sentence": 24
+        },
+        {
+            "name": "altisidora",
+            "start": 1266,
+            "end": 1267,
+            "sentence": 25
+        },
+        {
+            "name": "don quixote",
+            "start": 1275,
+            "end": 1277,
+            "sentence": 25
+        },
+        {
+            "name": "don quixote",
+            "start": 1333,
+            "end": 1335,
+            "sentence": 26
+        },
+        {
+            "name": "altisidora",
+            "start": 1375,
+            "end": 1376,
+            "sentence": 27
+        },
+        {
+            "name": "sancho panza",
+            "start": 1604,
+            "end": 1605,
+            "sentence": 30
+        },
+        {
+            "name": "altisidora",
+            "start": 1665,
+            "end": 1666,
+            "sentence": 34
+        },
+        {
+            "name": "sancho panza",
+            "start": 1865,
+            "end": 1866,
+            "sentence": 36
+        },
+        {
+            "name": "altisidora",
+            "start": 1892,
+            "end": 1893,
+            "sentence": 37
+        },
+        {
+            "name": "cide hamete benengeli",
+            "start": 2019,
+            "end": 2021,
+            "sentence": 40
+        },
+        {
+            "name": "tordesillas",
+            "start": 2037,
+            "end": 2038,
+            "sentence": 40
+        },
+        {
+            "name": "don quixote",
+            "start": 2133,
+            "end": 2135,
+            "sentence": 45
+        },
+        {
+            "name": "don quixote",
+            "start": 2166,
+            "end": 2168,
+            "sentence": 46
+        },
+        {
+            "name": "altisidora",
+            "start": 2291,
+            "end": 2292,
+            "sentence": 49
+        },
+        {
+            "name": "don quixote",
+            "start": 2300,
+            "end": 2302,
+            "sentence": 49
+        },
+        {
+            "name": "dulcinea",
+            "start": 2351,
+            "end": 2354,
+            "sentence": 50
+        },
+        {
+            "name": "altisidora",
+            "start": 2421,
+            "end": 2422,
+            "sentence": 52
+        },
+        {
+            "name": "sancho panza",
+            "start": 2544,
+            "end": 2545,
+            "sentence": 56
+        },
+        {
+            "name": "don quixote",
+            "start": 2606,
+            "end": 2608,
+            "sentence": 57
+        },
+        {
+            "name": "don quixote",
+            "start": 2667,
+            "end": 2669,
+            "sentence": 58
+        },
+        {
+            "name": "don quixote",
+            "start": 2706,
+            "end": 2708,
+            "sentence": 60
+        },
+        {
+            "name": "garcilaso",
+            "start": 2736,
+            "end": 2737,
+            "sentence": 60
+        },
+        {
+            "name": "don quixote",
+            "start": 2825,
+            "end": 2827,
+            "sentence": 62
+        },
+        {
+            "name": "sancho panza",
+            "start": 2864,
+            "end": 2865,
+            "sentence": 62
+        },
+        {
+            "name": "don quixote",
+            "start": 2890,
+            "end": 2892,
+            "sentence": 63
+        },
+        {
+            "name": "altisidora",
+            "start": 2940,
+            "end": 2941,
+            "sentence": 64
+        },
+        {
+            "name": "sancho panza",
+            "start": 3064,
+            "end": 3065,
+            "sentence": 67
+        },
+        {
+            "name": "sancho panza",
+            "start": 3146,
+            "end": 3147,
+            "sentence": 69
+        },
+        {
+            "name": "altisidora",
+            "start": 3161,
+            "end": 3162,
+            "sentence": 69
+        },
+        {
+            "name": "altisidora",
+            "start": 3196,
+            "end": 3197,
+            "sentence": 70
+        },
+        {
+            "name": "altisidora",
+            "start": 3285,
+            "end": 3286,
+            "sentence": 72
+        },
+        {
+            "name": "sancho panza",
+            "start": 3322,
+            "end": 3323,
+            "sentence": 73
+        },
+        {
+            "name": "don quixote",
+            "start": 3376,
+            "end": 3378,
+            "sentence": 77
+        }
+    ],
+    "123_CHAPTER LXXI.": [
+        {
+            "name": "don quixote",
+            "start": 4,
+            "end": 6,
+            "sentence": 0
+        },
+        {
+            "name": "sancho panza",
+            "start": 9,
+            "end": 10,
+            "sentence": 0
+        },
+        {
+            "name": "don quixote",
+            "start": 20,
+            "end": 22,
+            "sentence": 1
+        },
+        {
+            "name": "sancho panza",
+            "start": 54,
+            "end": 55,
+            "sentence": 2
+        },
+        {
+            "name": "altisidora",
+            "start": 64,
+            "end": 65,
+            "sentence": 2
+        },
+        {
+            "name": "sancho panza",
+            "start": 86,
+            "end": 87,
+            "sentence": 3
+        },
+        {
+            "name": "altisidora",
+            "start": 98,
+            "end": 99,
+            "sentence": 3
+        },
+        {
+            "name": "sancho panza",
+            "start": 310,
+            "end": 311,
+            "sentence": 6
+        },
+        {
+            "name": "don quixote",
+            "start": 316,
+            "end": 318,
+            "sentence": 6
+        },
+        {
+            "name": "altisidora",
+            "start": 321,
+            "end": 322,
+            "sentence": 6
+        },
+        {
+            "name": "sancho panza",
+            "start": 443,
+            "end": 444,
+            "sentence": 10
+        },
+        {
+            "name": "sancho panza",
+            "start": 471,
+            "end": 472,
+            "sentence": 11
+        },
+        {
+            "name": "sancho panza",
+            "start": 563,
+            "end": 564,
+            "sentence": 13
+        },
+        {
+            "name": "don quixote",
+            "start": 567,
+            "end": 569,
+            "sentence": 13
+        },
+        {
+            "name": "sancho panza",
+            "start": 625,
+            "end": 626,
+            "sentence": 15
+        },
+        {
+            "name": "sancho panza",
+            "start": 798,
+            "end": 799,
+            "sentence": 18
+        },
+        {
+            "name": "sancho panza",
+            "start": 802,
+            "end": 803,
+            "sentence": 19
+        },
+        {
+            "name": "don quixote",
+            "start": 806,
+            "end": 808,
+            "sentence": 19
+        },
+        {
+            "name": "dulcinea",
+            "start": 819,
+            "end": 820,
+            "sentence": 19
+        },
+        {
+            "name": "sancho panza",
+            "start": 873,
+            "end": 874,
+            "sentence": 21
+        },
+        {
+            "name": "sancho panza",
+            "start": 909,
+            "end": 910,
+            "sentence": 23
+        },
+        {
+            "name": "don quixote",
+            "start": 948,
+            "end": 950,
+            "sentence": 25
+        },
+        {
+            "name": "rocinante",
+            "start": 1033,
+            "end": 1034,
+            "sentence": 26
+        },
+        {
+            "name": "sancho panza",
+            "start": 1055,
+            "end": 1056,
+            "sentence": 26
+        },
+        {
+            "name": "dapple",
+            "start": 1069,
+            "end": 1070,
+            "sentence": 26
+        },
+        {
+            "name": "don quixote",
+            "start": 1086,
+            "end": 1088,
+            "sentence": 27
+        },
+        {
+            "name": "sancho panza",
+            "start": 1223,
+            "end": 1224,
+            "sentence": 29
+        },
+        {
+            "name": "don quixote",
+            "start": 1278,
+            "end": 1280,
+            "sentence": 30
+        },
+        {
+            "name": "sancho panza",
+            "start": 1359,
+            "end": 1360,
+            "sentence": 32
+        },
+        {
+            "name": "don quixote",
+            "start": 1370,
+            "end": 1372,
+            "sentence": 32
+        },
+        {
+            "name": "sancho panza",
+            "start": 1391,
+            "end": 1392,
+            "sentence": 33
+        },
+        {
+            "name": "don quixote",
+            "start": 1453,
+            "end": 1455,
+            "sentence": 35
+        },
+        {
+            "name": "sancho panza",
+            "start": 1474,
+            "end": 1475,
+            "sentence": 35
+        },
+        {
+            "name": "sancho panza",
+            "start": 1590,
+            "end": 1591,
+            "sentence": 37
+        },
+        {
+            "name": "don quixote",
+            "start": 1671,
+            "end": 1673,
+            "sentence": 38
+        },
+        {
+            "name": "sancho panza",
+            "start": 1688,
+            "end": 1689,
+            "sentence": 39
+        },
+        {
+            "name": "samson carrasco",
+            "start": 1741,
+            "end": 1742,
+            "sentence": 39
+        },
+        {
+            "name": "don quixote",
+            "start": 1765,
+            "end": 1767,
+            "sentence": 40
+        },
+        {
+            "name": "sancho panza",
+            "start": 1793,
+            "end": 1794,
+            "sentence": 40
+        },
+        {
+            "name": "dulcinea",
+            "start": 1820,
+            "end": 1821,
+            "sentence": 40
+        },
+        {
+            "name": "sancho panza",
+            "start": 1876,
+            "end": 1877,
+            "sentence": 41
+        },
+        {
+            "name": "don quixote",
+            "start": 1914,
+            "end": 1916,
+            "sentence": 42
+        },
+        {
+            "name": "sancho panza",
+            "start": 1922,
+            "end": 1923,
+            "sentence": 42
+        },
+        {
+            "name": "don quixote",
+            "start": 1964,
+            "end": 1966,
+            "sentence": 43
+        },
+        {
+            "name": "don quixote",
+            "start": 2146,
+            "end": 2148,
+            "sentence": 47
+        },
+        {
+            "name": "sancho panza",
+            "start": 2234,
+            "end": 2235,
+            "sentence": 50
+        },
+        {
+            "name": "sancho panza",
+            "start": 2291,
+            "end": 2292,
+            "sentence": 51
+        },
+        {
+            "name": "don quixote",
+            "start": 2295,
+            "end": 2297,
+            "sentence": 51
+        },
+        {
+            "name": "orbaneja",
+            "start": 2304,
+            "end": 2305,
+            "sentence": 51
+        },
+        {
+            "name": "don quixote",
+            "start": 2384,
+            "end": 2386,
+            "sentence": 52
+        },
+        {
+            "name": "sancho panza",
+            "start": 2401,
+            "end": 2402,
+            "sentence": 52
+        },
+        {
+            "name": "sancho panza",
+            "start": 2475,
+            "end": 2476,
+            "sentence": 53
+        },
+        {
+            "name": "sancho panza",
+            "start": 2512,
+            "end": 2513,
+            "sentence": 54
+        },
+        {
+            "name": "sancho panza",
+            "start": 2578,
+            "end": 2579,
+            "sentence": 55
+        },
+        {
+            "name": "don quixote",
+            "start": 2584,
+            "end": 2586,
+            "sentence": 55
+        },
+        {
+            "name": "sancho panza",
+            "start": 2622,
+            "end": 2623,
+            "sentence": 56
+        },
+        {
+            "name": "sancho panza",
+            "start": 2718,
+            "end": 2719,
+            "sentence": 57
+        },
+        {
+            "name": "don quixote",
+            "start": 2726,
+            "end": 2728,
+            "sentence": 57
+        },
+        {
+            "name": "sancho panza",
+            "start": 2787,
+            "end": 2788,
+            "sentence": 58
+        }
+    ],
+    "124_CHAPTER LXXII.": [
+        {
+            "name": "don quixote",
+            "start": 2,
+            "end": 4,
+            "sentence": 0
+        },
+        {
+            "name": "sancho panza",
+            "start": 5,
+            "end": 6,
+            "sentence": 0
+        },
+        {
+            "name": "don quixote",
+            "start": 12,
+            "end": 14,
+            "sentence": 0
+        },
+        {
+            "name": "sancho panza",
+            "start": 15,
+            "end": 16,
+            "sentence": 0
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 89,
+            "end": 92,
+            "sentence": 1
+        },
+        {
+            "name": "don quixote",
+            "start": 115,
+            "end": 117,
+            "sentence": 2
+        },
+        {
+            "name": "sancho panza",
+            "start": 119,
+            "end": 120,
+            "sentence": 2
+        },
+        {
+            "name": "sancho panza",
+            "start": 125,
+            "end": 126,
+            "sentence": 2
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 151,
+            "end": 154,
+            "sentence": 2
+        },
+        {
+            "name": "sancho panza",
+            "start": 162,
+            "end": 163,
+            "sentence": 3
+        },
+        {
+            "name": "don quixote",
+            "start": 201,
+            "end": 204,
+            "sentence": 4
+        },
+        {
+            "name": "don quixote",
+            "start": 242,
+            "end": 244,
+            "sentence": 5
+        },
+        {
+            "name": "don quixote",
+            "start": 283,
+            "end": 285,
+            "sentence": 6
+        },
+        {
+            "name": "don quixote",
+            "start": 327,
+            "end": 329,
+            "sentence": 8
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 370,
+            "end": 373,
+            "sentence": 9
+        },
+        {
+            "name": "don quixote",
+            "start": 381,
+            "end": 383,
+            "sentence": 10
+        },
+        {
+            "name": "don quixote",
+            "start": 411,
+            "end": 413,
+            "sentence": 10
+        },
+        {
+            "name": "don quixote",
+            "start": 442,
+            "end": 444,
+            "sentence": 13
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 528,
+            "end": 530,
+            "sentence": 15
+        },
+        {
+            "name": "don quixote",
+            "start": 533,
+            "end": 535,
+            "sentence": 15
+        },
+        {
+            "name": "don quixote",
+            "start": 568,
+            "end": 570,
+            "sentence": 17
+        },
+        {
+            "name": "sancho panza",
+            "start": 584,
+            "end": 586,
+            "sentence": 17
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 594,
+            "end": 596,
+            "sentence": 18
+        },
+        {
+            "name": "sancho panza",
+            "start": 632,
+            "end": 633,
+            "sentence": 19
+        },
+        {
+            "name": "sancho panza",
+            "start": 652,
+            "end": 653,
+            "sentence": 19
+        },
+        {
+            "name": "sancho panza",
+            "start": 681,
+            "end": 683,
+            "sentence": 19
+        },
+        {
+            "name": "don quixote",
+            "start": 751,
+            "end": 753,
+            "sentence": 20
+        },
+        {
+            "name": "dulcinea",
+            "start": 800,
+            "end": 803,
+            "sentence": 20
+        },
+        {
+            "name": "don quixote",
+            "start": 815,
+            "end": 817,
+            "sentence": 20
+        },
+        {
+            "name": "sancho panza",
+            "start": 820,
+            "end": 822,
+            "sentence": 20
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 837,
+            "end": 839,
+            "sentence": 21
+        },
+        {
+            "name": "sancho panza",
+            "start": 861,
+            "end": 863,
+            "sentence": 21
+        },
+        {
+            "name": "don quixote",
+            "start": 949,
+            "end": 951,
+            "sentence": 23
+        },
+        {
+            "name": "don quixote",
+            "start": 975,
+            "end": 977,
+            "sentence": 24
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 1003,
+            "end": 1006,
+            "sentence": 25
+        },
+        {
+            "name": "don quixote",
+            "start": 1030,
+            "end": 1032,
+            "sentence": 25
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 1150,
+            "end": 1153,
+            "sentence": 27
+        },
+        {
+            "name": "don quixote",
+            "start": 1156,
+            "end": 1158,
+            "sentence": 27
+        },
+        {
+            "name": "don quixote",
+            "start": 1231,
+            "end": 1234,
+            "sentence": 28
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 1266,
+            "end": 1268,
+            "sentence": 29
+        },
+        {
+            "name": "don quixote",
+            "start": 1277,
+            "end": 1279,
+            "sentence": 29
+        },
+        {
+            "name": "sancho panza",
+            "start": 1281,
+            "end": 1283,
+            "sentence": 29
+        },
+        {
+            "name": "dulcinea",
+            "start": 1335,
+            "end": 1338,
+            "sentence": 30
+        },
+        {
+            "name": "sancho panza",
+            "start": 1341,
+            "end": 1342,
+            "sentence": 30
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 1394,
+            "end": 1396,
+            "sentence": 31
+        },
+        {
+            "name": "sancho panza",
+            "start": 1397,
+            "end": 1398,
+            "sentence": 32
+        },
+        {
+            "name": "don quixote",
+            "start": 1431,
+            "end": 1433,
+            "sentence": 33
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 1434,
+            "end": 1436,
+            "sentence": 33
+        },
+        {
+            "name": "don quixote",
+            "start": 1456,
+            "end": 1458,
+            "sentence": 34
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 1473,
+            "end": 1476,
+            "sentence": 34
+        },
+        {
+            "name": "don quixote",
+            "start": 1493,
+            "end": 1495,
+            "sentence": 34
+        },
+        {
+            "name": "don quixote",
+            "start": 1560,
+            "end": 1562,
+            "sentence": 35
+        },
+        {
+            "name": "sancho panza",
+            "start": 1563,
+            "end": 1564,
+            "sentence": 35
+        },
+        {
+            "name": "don quixote",
+            "start": 1601,
+            "end": 1602,
+            "sentence": 35
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 1616,
+            "end": 1618,
+            "sentence": 36
+        },
+        {
+            "name": "don quixote",
+            "start": 1619,
+            "end": 1621,
+            "sentence": 36
+        },
+        {
+            "name": "don quixote",
+            "start": 1629,
+            "end": 1630,
+            "sentence": 36
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 1637,
+            "end": 1639,
+            "sentence": 36
+        },
+        {
+            "name": "don quixote",
+            "start": 1673,
+            "end": 1675,
+            "sentence": 36
+        },
+        {
+            "name": "don quixote",
+            "start": 1700,
+            "end": 1703,
+            "sentence": 37
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 1709,
+            "end": 1711,
+            "sentence": 37
+        },
+        {
+            "name": "don quixote",
+            "start": 1719,
+            "end": 1721,
+            "sentence": 38
+        },
+        {
+            "name": "dulcinea",
+            "start": 1730,
+            "end": 1731,
+            "sentence": 38
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 1740,
+            "end": 1742,
+            "sentence": 38
+        },
+        {
+            "name": "don quixote",
+            "start": 1748,
+            "end": 1750,
+            "sentence": 38
+        },
+        {
+            "name": "sancho panza",
+            "start": 1751,
+            "end": 1752,
+            "sentence": 38
+        },
+        {
+            "name": "don quixote",
+            "start": 1759,
+            "end": 1761,
+            "sentence": 38
+        },
+        {
+            "name": "sancho panza",
+            "start": 1775,
+            "end": 1776,
+            "sentence": 39
+        },
+        {
+            "name": "don quixote",
+            "start": 1838,
+            "end": 1840,
+            "sentence": 40
+        },
+        {
+            "name": "don \u00e1lvaro tarfe",
+            "start": 1897,
+            "end": 1899,
+            "sentence": 41
+        },
+        {
+            "name": "sancho panza",
+            "start": 1948,
+            "end": 1949,
+            "sentence": 42
+        },
+        {
+            "name": "don quixote",
+            "start": 1955,
+            "end": 1957,
+            "sentence": 42
+        },
+        {
+            "name": "dulcinea",
+            "start": 1982,
+            "end": 1983,
+            "sentence": 43
+        },
+        {
+            "name": "dulcinea",
+            "start": 2009,
+            "end": 2012,
+            "sentence": 43
+        },
+        {
+            "name": "merlin",
+            "start": 2020,
+            "end": 2021,
+            "sentence": 43
+        },
+        {
+            "name": "sancho panza",
+            "start": 2051,
+            "end": 2052,
+            "sentence": 44
+        },
+        {
+            "name": "sancho panza",
+            "start": 2073,
+            "end": 2075,
+            "sentence": 44
+        },
+        {
+            "name": "don quixote",
+            "start": 2099,
+            "end": 2101,
+            "sentence": 45
+        },
+        {
+            "name": "don quixote",
+            "start": 2166,
+            "end": 2168,
+            "sentence": 47
+        }
+    ],
+    "125_CHAPTER LXXIII.": [
+        {
+            "name": "cide hamete benengeli",
+            "start": 35,
+            "end": 37,
+            "sentence": 1
+        },
+        {
+            "name": "don quixote",
+            "start": 38,
+            "end": 40,
+            "sentence": 1
+        },
+        {
+            "name": "don quixote",
+            "start": 79,
+            "end": 81,
+            "sentence": 2
+        },
+        {
+            "name": "sancho panza",
+            "start": 88,
+            "end": 89,
+            "sentence": 2
+        },
+        {
+            "name": "sancho panza",
+            "start": 123,
+            "end": 124,
+            "sentence": 3
+        },
+        {
+            "name": "don quixote",
+            "start": 142,
+            "end": 144,
+            "sentence": 4
+        },
+        {
+            "name": "dulcinea",
+            "start": 169,
+            "end": 170,
+            "sentence": 4
+        },
+        {
+            "name": "sancho panza",
+            "start": 173,
+            "end": 174,
+            "sentence": 5
+        },
+        {
+            "name": "dapple",
+            "start": 212,
+            "end": 213,
+            "sentence": 6
+        },
+        {
+            "name": "sancho panza",
+            "start": 214,
+            "end": 215,
+            "sentence": 7
+        },
+        {
+            "name": "don quixote",
+            "start": 222,
+            "end": 224,
+            "sentence": 7
+        },
+        {
+            "name": "dulcinea",
+            "start": 246,
+            "end": 247,
+            "sentence": 7
+        },
+        {
+            "name": "sancho panza",
+            "start": 261,
+            "end": 262,
+            "sentence": 8
+        },
+        {
+            "name": "dulcinea",
+            "start": 274,
+            "end": 275,
+            "sentence": 8
+        },
+        {
+            "name": "sancho panza",
+            "start": 353,
+            "end": 354,
+            "sentence": 9
+        },
+        {
+            "name": "sancho panza",
+            "start": 418,
+            "end": 419,
+            "sentence": 11
+        },
+        {
+            "name": "don quixote",
+            "start": 440,
+            "end": 443,
+            "sentence": 11
+        },
+        {
+            "name": "don quixote",
+            "start": 576,
+            "end": 578,
+            "sentence": 12
+        },
+        {
+            "name": "samson carrasco",
+            "start": 605,
+            "end": 606,
+            "sentence": 13
+        },
+        {
+            "name": "sancho panza",
+            "start": 616,
+            "end": 617,
+            "sentence": 14
+        },
+        {
+            "name": "dapple",
+            "start": 629,
+            "end": 630,
+            "sentence": 14
+        },
+        {
+            "name": "altisidora",
+            "start": 656,
+            "end": 657,
+            "sentence": 14
+        },
+        {
+            "name": "dapple",
+            "start": 669,
+            "end": 670,
+            "sentence": 15
+        },
+        {
+            "name": "don quixote",
+            "start": 707,
+            "end": 709,
+            "sentence": 17
+        },
+        {
+            "name": "sancho panza",
+            "start": 756,
+            "end": 759,
+            "sentence": 17
+        },
+        {
+            "name": "don quixote",
+            "start": 767,
+            "end": 770,
+            "sentence": 17
+        },
+        {
+            "name": "don quixote",
+            "start": 807,
+            "end": 810,
+            "sentence": 18
+        },
+        {
+            "name": "teresa panza",
+            "start": 839,
+            "end": 841,
+            "sentence": 19
+        },
+        {
+            "name": "sancho panza",
+            "start": 842,
+            "end": 843,
+            "sentence": 19
+        },
+        {
+            "name": "sanchica",
+            "start": 861,
+            "end": 862,
+            "sentence": 19
+        },
+        {
+            "name": "teresa panza",
+            "start": 938,
+            "end": 939,
+            "sentence": 21
+        },
+        {
+            "name": "sancho panza",
+            "start": 942,
+            "end": 943,
+            "sentence": 21
+        },
+        {
+            "name": "teresa panza",
+            "start": 1004,
+            "end": 1005,
+            "sentence": 23
+        },
+        {
+            "name": "sanchica",
+            "start": 1041,
+            "end": 1042,
+            "sentence": 24
+        },
+        {
+            "name": "dapple",
+            "start": 1093,
+            "end": 1094,
+            "sentence": 24
+        },
+        {
+            "name": "don quixote",
+            "start": 1102,
+            "end": 1104,
+            "sentence": 24
+        },
+        {
+            "name": "don quixote",
+            "start": 1127,
+            "end": 1129,
+            "sentence": 25
+        },
+        {
+            "name": "don quixote",
+            "start": 1337,
+            "end": 1339,
+            "sentence": 27
+        },
+        {
+            "name": "don quixote",
+            "start": 1349,
+            "end": 1350,
+            "sentence": 27
+        },
+        {
+            "name": "samson carrasco",
+            "start": 1355,
+            "end": 1356,
+            "sentence": 27
+        },
+        {
+            "name": "sancho panza",
+            "start": 1365,
+            "end": 1367,
+            "sentence": 27
+        },
+        {
+            "name": "don quixote",
+            "start": 1375,
+            "end": 1378,
+            "sentence": 28
+        },
+        {
+            "name": "samson carrasco",
+            "start": 1449,
+            "end": 1451,
+            "sentence": 30
+        },
+        {
+            "name": "don quixote",
+            "start": 1579,
+            "end": 1581,
+            "sentence": 32
+        },
+        {
+            "name": "samson carrasco",
+            "start": 1688,
+            "end": 1690,
+            "sentence": 34
+        },
+        {
+            "name": "sancho panza",
+            "start": 1803,
+            "end": 1805,
+            "sentence": 35
+        },
+        {
+            "name": "teresa panza",
+            "start": 1816,
+            "end": 1818,
+            "sentence": 35
+        },
+        {
+            "name": "don quixote",
+            "start": 1822,
+            "end": 1824,
+            "sentence": 36
+        },
+        {
+            "name": "don quixote",
+            "start": 1924,
+            "end": 1926,
+            "sentence": 38
+        },
+        {
+            "name": "don quixote",
+            "start": 2174,
+            "end": 2176,
+            "sentence": 46
+        }
+    ],
+    "126_CHAPTER LXXIV.": [
+        {
+            "name": "don quixote",
+            "start": 2,
+            "end": 4,
+            "sentence": 0
+        },
+        {
+            "name": "don quixote",
+            "start": 50,
+            "end": 53,
+            "sentence": 0
+        },
+        {
+            "name": "sancho panza",
+            "start": 139,
+            "end": 141,
+            "sentence": 1
+        },
+        {
+            "name": "dulcinea",
+            "start": 170,
+            "end": 171,
+            "sentence": 2
+        },
+        {
+            "name": "don quixote",
+            "start": 271,
+            "end": 273,
+            "sentence": 3
+        },
+        {
+            "name": "don quixote",
+            "start": 332,
+            "end": 334,
+            "sentence": 5
+        },
+        {
+            "name": "don quixote",
+            "start": 382,
+            "end": 384,
+            "sentence": 7
+        },
+        {
+            "name": "don quixote",
+            "start": 559,
+            "end": 561,
+            "sentence": 14
+        },
+        {
+            "name": "samson carrasco",
+            "start": 747,
+            "end": 749,
+            "sentence": 18
+        },
+        {
+            "name": "the barber",
+            "start": 752,
+            "end": 753,
+            "sentence": 18
+        },
+        {
+            "name": "don quixote",
+            "start": 783,
+            "end": 785,
+            "sentence": 20
+        },
+        {
+            "name": "don quixote",
+            "start": 804,
+            "end": 806,
+            "sentence": 20
+        },
+        {
+            "name": "don quixote",
+            "start": 811,
+            "end": 813,
+            "sentence": 20
+        },
+        {
+            "name": "amadis of gaul",
+            "start": 832,
+            "end": 833,
+            "sentence": 21
+        },
+        {
+            "name": "samson carrasco",
+            "start": 919,
+            "end": 920,
+            "sentence": 22
+        },
+        {
+            "name": "don quixote",
+            "start": 925,
+            "end": 927,
+            "sentence": 23
+        },
+        {
+            "name": "dulcinea",
+            "start": 936,
+            "end": 937,
+            "sentence": 24
+        },
+        {
+            "name": "don quixote",
+            "start": 1000,
+            "end": 1002,
+            "sentence": 26
+        },
+        {
+            "name": "don quixote",
+            "start": 1105,
+            "end": 1108,
+            "sentence": 28
+        },
+        {
+            "name": "sancho panza",
+            "start": 1218,
+            "end": 1219,
+            "sentence": 30
+        },
+        {
+            "name": "don quixote",
+            "start": 1261,
+            "end": 1265,
+            "sentence": 31
+        },
+        {
+            "name": "sancho panza",
+            "start": 1308,
+            "end": 1310,
+            "sentence": 32
+        },
+        {
+            "name": "don quixote",
+            "start": 1346,
+            "end": 1350,
+            "sentence": 32
+        },
+        {
+            "name": "don quixote",
+            "start": 1353,
+            "end": 1355,
+            "sentence": 32
+        },
+        {
+            "name": "don quixote",
+            "start": 1359,
+            "end": 1361,
+            "sentence": 32
+        },
+        {
+            "name": "don quixote",
+            "start": 1418,
+            "end": 1420,
+            "sentence": 33
+        },
+        {
+            "name": "sancho panza",
+            "start": 1459,
+            "end": 1461,
+            "sentence": 33
+        },
+        {
+            "name": "sancho panza",
+            "start": 1612,
+            "end": 1613,
+            "sentence": 35
+        },
+        {
+            "name": "sancho panza",
+            "start": 1666,
+            "end": 1667,
+            "sentence": 36
+        },
+        {
+            "name": "dulcinea",
+            "start": 1760,
+            "end": 1761,
+            "sentence": 38
+        },
+        {
+            "name": "rocinante",
+            "start": 1799,
+            "end": 1800,
+            "sentence": 39
+        },
+        {
+            "name": "samson carrasco",
+            "start": 1848,
+            "end": 1849,
+            "sentence": 40
+        },
+        {
+            "name": "sancho panza",
+            "start": 1853,
+            "end": 1855,
+            "sentence": 40
+        },
+        {
+            "name": "don quixote",
+            "start": 1874,
+            "end": 1876,
+            "sentence": 41
+        },
+        {
+            "name": "don quixote",
+            "start": 1905,
+            "end": 1907,
+            "sentence": 42
+        },
+        {
+            "name": "don quixote",
+            "start": 1919,
+            "end": 1923,
+            "sentence": 42
+        },
+        {
+            "name": "antonia quixana",
+            "start": 1959,
+            "end": 1961,
+            "sentence": 43
+        },
+        {
+            "name": "samson carrasco",
+            "start": 2034,
+            "end": 2036,
+            "sentence": 45
+        },
+        {
+            "name": "antonia quixana",
+            "start": 2054,
+            "end": 2056,
+            "sentence": 46
+        },
+        {
+            "name": "sancho panza",
+            "start": 2337,
+            "end": 2339,
+            "sentence": 51
+        },
+        {
+            "name": "don quixote",
+            "start": 2370,
+            "end": 2373,
+            "sentence": 52
+        },
+        {
+            "name": "don quixote",
+            "start": 2437,
+            "end": 2439,
+            "sentence": 53
+        },
+        {
+            "name": "don quixote",
+            "start": 2472,
+            "end": 2474,
+            "sentence": 54
+        },
+        {
+            "name": "don quixote",
+            "start": 2479,
+            "end": 2481,
+            "sentence": 54
+        },
+        {
+            "name": "cide hamete benengeli",
+            "start": 2514,
+            "end": 2517,
+            "sentence": 54
+        },
+        {
+            "name": "cide hamete benengeli",
+            "start": 2546,
+            "end": 2548,
+            "sentence": 55
+        },
+        {
+            "name": "sancho panza",
+            "start": 2595,
+            "end": 2596,
+            "sentence": 56
+        },
+        {
+            "name": "samson carrasco",
+            "start": 2615,
+            "end": 2617,
+            "sentence": 56
+        },
+        {
+            "name": "cide hamete benengeli",
+            "start": 2694,
+            "end": 2696,
+            "sentence": 58
+        },
+        {
+            "name": "don quixote",
+            "start": 2805,
+            "end": 2807,
+            "sentence": 63
+        },
+        {
+            "name": "don quixote",
+            "start": 2903,
+            "end": 2905,
+            "sentence": 64
+        },
+        {
+            "name": "don quixote",
+            "start": 3102,
+            "end": 3104,
+            "sentence": 65
+        },
+        {
+            "name": "don quixote",
+            "start": 3130,
+            "end": 3132,
+            "sentence": 67
+        }
+    ]
+}
