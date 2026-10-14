@@ -25,4 +25,4 @@ Los datos procesados se exportan en formatos estándar para análisis topológic
 
 ## 🌐 Aplicabilidad en Infraestructura y Sistemas Complejos
 
-Aunque este *pipeline* se aplica aquí a un corpus literario, su arquitectura subyacente de análisis transversal es agnóstica al dominio. Las técnicas implementadas —parseo de texto libre[cite: 15], extracción de entidades mediante modelos Transformer[cite: 12], mapeo de proximidad de *tokens*[cite: 14] y modelado topológico matricial[cite: 11]— constituyen la base teórica necesaria para la ingesta y análisis automatizado de *logs* de servidores, detección de patrones en tráfico de red y modelado de arquitecturas distribuidas.
+Aunque este *pipeline* se aplica aquí a un corpus literario, su arquitectura subyacente de análisis transversal es agnóstica al dominio. Las técnicas implementadas —parseo de texto libre, extracción de entidades mediante modelos Transformer, mapeo de proximidad de *tokens* y modelado topológico matricial— constituyen la base teórica necesaria para la ingesta y análisis automatizado de *logs* de servidores, detección de patrones en tráfico de red y modelado de arquitecturas distribuidas.
